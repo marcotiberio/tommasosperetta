@@ -1,0 +1,292 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 15px !important;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+
+/* ####################################### NEW NEW NEW TABLE ####################################### */
+
+
+.table {
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+
+.table th {
+  font-weight: 400 !important;
+  padding-bottom: 0.25% !important;
+}
+
+.header-text {
+  cursor: pointer;
+}
+
+.header-text:hover {
+  color: lime;
+  transition: ease 0.15s;
+}
+
+.table td {
+  padding-top: 0.25% !important;
+  padding-bottom: 1.25% !important;
+}
+
+#table-header {
+  border-bottom: 1px solid black;
+  padding-top: 0.25% !important;
+}
+
+#table-project_title {
+  padding: 50px !important;
+  border-top: 1px solid black;
+}
+
+#table-project_title:hover {
+  cursor: pointer;
+  color: lime;
+  background-color: transparent !important;
+  transition: ease 0.15s;
+}
+
+#table-project_details:hover {
+  cursor: auto;
+  background-color: transparent !important;
+}
+
+/* .table tr:hover {
+  cursor: pointer;
+  color: lime;
+  background: transparent !important;
+} */
+
+.collapse {
+  display: none;
+}
+
+
+/* ####################################### NEW TABLE ####################################### */
+
+/* unvisited link */
+a:link {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+/* visited link */
+a:visited {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+/* mouse over link */
+a:hover {
+  color: lime !important;
+  text-decoration: none !important;
+  transition: ease 0.15s;
+}
+
+/* selected link */
+a:active {
+  color: lime !important;
+  text-decoration: none !important;
+  transition: ease 0.15s;
+}
+
+
+/* ####################################### HEADER ####################################### */
+
+.sticky-top {
+  background: white;
+  /* position: fixed !important;
+  width: 100% !important;
+  top: 0 !important; */
+}
+
+.container-header {
+  display: grid;
+  grid-template-columns: 5% 55% 40%;
+  margin: 0;
+  padding-left: 0.8%;
+  padding-right: 0.8%;
+  padding-bottom: 1%;
+  max-width: 100%;
+}
+
+#sidebar-title {
+  cursor: pointer;
+}
+
+#title {
+  cursor: pointer;
+}
+
+#title:hover {
+  color: lime;
+  transition: ease 0.15s;
+}
+
+#sidebar {
+  display: none;
+  top: 0;
+  left: 0;
+  padding-top: 0.5%;
+  padding-left: 5.13%;
+  border-right: 1px solid black;
+  position: fixed;
+  width: 35%;
+  height: 100vh;
+  background-color: white;
+}
+
+.sidebar-header {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding-left: 2%;
+  padding-right: 4%;
+}
+
+#sidebar-close {
+  width: 8%;
+  cursor: pointer;
+}
+
+#sidebar-close:hover {
+  color: lime;
+}
+
+.sidebar-info {
+  padding-left: 2%;
+  padding-right: 10%;
+}
+
+#searchInput {
+  border: none !important;
+  cursor: help;
+}
+
+/* ####################################### MAIN TABLE ####################################### */
+
+.btn {
+  width: 100%;
+  text-align: left;
+  margin: 0 !important;
+  padding: 0 !important;
+  color: black !important;
+  text-decoration: none !important;
+}
+
+#button-about:focus,
+#button-about:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+#searchInput:focus,
+#searchInput:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+.container-img {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  column-gap: 2%;
+  row-gap: 1%;
+}
+
+.link-credits {
+  cursor: alias !important;
+  text-decoration: none !important;
+  color: black !important;
+}
+
+
+/* ####################################### MOBILE MOBILE MOBILE ####################################### */
+
+.table-project_subtitlemobile {
+  font-size: 13px;
+}
+
+.carousel {
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+
+
+ol.carousel-indicators {
+  position: absolute;
+  bottom: -25px;
+  margin-top: 0;
+  left: 0;
+  right: 0;
+  width: auto;
+}
+
+ol.carousel-indicators li,
+ol.carousel-indicators li.active {
+  float: left;
+  margin: 5px !important;
+  height: 5px;
+  width: 5px;
+  border-radius: 100%;
+  border: 1px solid black;
+  background: transparent;
+}
+
+ol.carousel-indicators li.active {
+  background: black;
+}
+
+
+/* *** MEDIA QUERY *** */
+
+
+@media only screen and (max-width: 600px) {
+
+  html,
+  body {
+    font-size: 15px !important;
+  }
+
+  .main-mobile {
+    padding-top: 5%;
+  }
+
+  .card-body {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .container-details>div {
+    padding-right: 5px;
+    text-justify: inter-word !important;
+  }
+
+  .container-header {
+    display: grid;
+    grid-template-columns: 11% 89%;
+  }
+
+  #sidebar {
+    display: none;
+    top: 0;
+    left: 0;
+    padding-top: 0.5%;
+    padding-left: 10.3%;
+    border-right: 1px solid black;
+    position: fixed;
+    width: 35%;
+    height: 100vh;
+    background-color: white;
+  }
+
+}
