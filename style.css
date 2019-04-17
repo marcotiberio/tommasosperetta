@@ -159,10 +159,6 @@ a:active {
   cursor: pointer;
 }
 
-#sidebar-close:hover {
-  color: lime;
-}
-
 .sidebar-info {
   padding-left: 2%;
   padding-right: 10%;
@@ -201,6 +197,11 @@ a:active {
   grid-template-columns: 33% 33% 33%;
   column-gap: 2%;
   row-gap: 1%;
+}
+
+#projects-container {
+  width: 100%;
+  margin: 1%;
 }
 
 .link-credits {
