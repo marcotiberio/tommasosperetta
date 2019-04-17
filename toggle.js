@@ -17,6 +17,9 @@ $(".table-project_title39").click(function(){
 $(".table-project_title38").click(function(){
   $("#table-project_details38").toggle();
 });
+$(".table-project_title37").click(function(){
+  $("#table-project_details37").toggle();
+});
 $(".table-project_title36").click(function(){
   $("#table-project_details36").toggle();
 });
