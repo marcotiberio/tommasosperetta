@@ -192,17 +192,20 @@ a:active {
   box-shadow: none;
 }
 
-.container-img {
+#img-project {
+  height: 100px;
+  padding: 5px;
+}
+/* .container-img {
   display: grid;
   grid-template-columns: 33% 33% 33%;
   column-gap: 2%;
   row-gap: 1%;
-}
+} */
 
-#projects-container {
-  width: 100%;
+/* #projects-container {
   margin: 1%;
-}
+} */
 
 .link-credits {
   cursor: alias !important;
