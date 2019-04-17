@@ -57,6 +57,10 @@ body {
   transition: ease 0.15s;
 }
 
+#table-project_details40 {
+  display: none;
+}
+
 #table-project_details:hover {
   cursor: auto;
   background-color: transparent !important;
@@ -194,7 +198,7 @@ a:active {
 
 #img-project {
   height: 100px;
-  padding: 2px 0;
+  margin: 2px 0;
 }
 /* .container-img {
   display: grid;
