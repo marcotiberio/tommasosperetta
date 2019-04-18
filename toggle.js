@@ -8,6 +8,78 @@ $("#sidebar-close").click(function () {
 
 
 // TABLE ROWS
+$(".table-project_title64").click(function(){
+  $("#table-project_details64").toggle();
+});
+$(".table-project_title63").click(function(){
+  $("#table-project_details63").toggle();
+});
+$(".table-project_title62").click(function(){
+  $("#table-project_details62").toggle();
+});
+$(".table-project_title61").click(function(){
+  $("#table-project_details61").toggle();
+});
+$(".table-project_title60").click(function(){
+  $("#table-project_details60").toggle();
+});
+$(".table-project_title59").click(function(){
+  $("#table-project_details59").toggle();
+});
+$(".table-project_title58").click(function(){
+  $("#table-project_details58").toggle();
+});
+$(".table-project_title57").click(function(){
+  $("#table-project_details57").toggle();
+});
+$(".table-project_title56").click(function(){
+  $("#table-project_details56").toggle();
+});
+$(".table-project_title55").click(function(){
+  $("#table-project_details55").toggle();
+});
+$(".table-project_title54").click(function(){
+  $("#table-project_details54").toggle();
+});
+$(".table-project_title53").click(function(){
+  $("#table-project_details53").toggle();
+});
+$(".table-project_title52").click(function(){
+  $("#table-project_details52").toggle();
+});
+$(".table-project_title51").click(function(){
+  $("#table-project_details51").toggle();
+});
+$(".table-project_title50").click(function(){
+  $("#table-project_details50").toggle();
+});
+$(".table-project_title49").click(function(){
+  $("#table-project_details49").toggle();
+});
+$(".table-project_title48").click(function(){
+  $("#table-project_details48").toggle();
+});
+$(".table-project_title47").click(function(){
+  $("#table-project_details47").toggle();
+});
+$(".table-project_title46").click(function(){
+  $("#table-project_details46").toggle();
+});
+$(".table-project_title45").click(function(){
+  $("#table-project_details45").toggle();
+});
+$(".table-project_title44").click(function(){
+  $("#table-project_details44").toggle();
+});
+$(".table-project_title43").click(function(){
+  $("#table-project_details43").toggle();
+});
+$(".table-project_title42").click(function(){
+  $("#table-project_details42").toggle();
+});
+$(".table-project_title41").click(function(){
+  $("#table-project_details41").toggle();
+});
 $(".table-project_title40").click(function(){
   $("#table-project_details40").toggle();
 });
@@ -16,9 +88,6 @@ $(".table-project_title39").click(function(){
 });
 $(".table-project_title38").click(function(){
   $("#table-project_details38").toggle();
-});
-$(".table-project_title37").click(function(){
-  $("#table-project_details37").toggle();
 });
 $(".table-project_title36").click(function(){
   $("#table-project_details36").toggle();
