@@ -80,6 +80,9 @@ body {
   background-color: transparent !important;
 }
 
+.table-acc-body:hover {
+  background-color: transparent !important;
+}
 
 /* ####################################### NEW TABLE ####################################### */
 
