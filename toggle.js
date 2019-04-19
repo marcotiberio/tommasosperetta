@@ -6,11 +6,7 @@ $("#sidebar-close").click(function () {
   $("#sidebar").hide();
 });
 
-
 // TABLE ROWS
-$(".table-project_title64").click(function(){
-  $("#table-project_details64").toggle();
-});
 $(".table-project_title63").click(function(){
   $("#table-project_details63").toggle();
 });
