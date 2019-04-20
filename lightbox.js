@@ -88,13 +88,20 @@
           // get the deck id of the current item
           var id = parseInt($(this).attr("href").substring(1), 10);
 
+          // get the index of the image you are clicking on
+          var imageIndex = parseInt($(this).attr("data-index"));
+          if (!imageIndex) {
+            imageIndex = 0
+          }
+
           // prevent the default anchor behavior
           e.preventDefault();
 
           // open the lightbox module
           $.ScalableLightbox("open", {
             module: "lightbox",
-            deck: id
+            deck: id,
+            index: imageIndex
           });
 
         });
