@@ -1,4 +1,14 @@
+                  
       $(function() {
+
+        //Adding a data-index attribute to each image,
+        //so that gallery opens at correct image
+        $( ".container-img" ).each(function(index){
+          var images = $(this).children()
+          images.each(function(index){
+            $(this).attr("data-index", index)
+          })
+        })
 
         // ScalableLightbox
         $.ScalableLightbox({
@@ -8,7 +18,7 @@
 
           // define the path for all
           // resources (images):
-          baseImgPath: 'assets/img/lightbox/53/',
+          baseImgPath: 'assets/img/lightbox/',
 
           // define data structure inline
           data: [
@@ -16,55 +26,55 @@
             {
               "id": 53,
               "items": [{
-                  "img": "1-America-Society-Leonilson.jpg",
+                  "img": "53/1-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "2-America-Society-Leonilson.jpg",
+                  "img": "53/2-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "3-America-Society-Leonilson.jpg",
+                  "img": "53/3-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "4-America-Society-Leonilson.jpg",
+                  "img": "53/4-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "5-America-Society-Leonilson.jpg",
+                  "img": "53/5-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "6-America-Society-Leonilson.jpg",
+                  "img": "53/6-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "7-America-Society-Leonilson.jpg",
+                  "img": "53/7-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "8-America-Society-Leonilson.jpg",
+                  "img": "53/8-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "9-America-Society-Leonilson.jpg",
+                  "img": "53/9-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
@@ -88,13 +98,20 @@
           // get the deck id of the current item
           var id = parseInt($(this).attr("href").substring(1), 10);
 
+          // get the index of the image you are clicking on
+          var imageIndex = parseInt($(this).attr("data-index"));
+          if (!imageIndex) {
+            imageIndex = 0
+          }
+
           // prevent the default anchor behavior
           e.preventDefault();
 
           // open the lightbox module
           $.ScalableLightbox("open", {
             module: "lightbox",
-            deck: id
+            deck: id,
+            index: imageIndex
           });
 
         });
