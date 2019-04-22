@@ -9,7 +9,7 @@ https://www.scalable-lightbox.com/
 
 If you want to add new galleries for any project, first create a new folder at `assets/img/lightbox/` and name it according to your project or row (e.g. 'jeff_koons or 58'). Add all your image files in there.
 
-Inside the `index.html` file, scroll to the bottom part where you find the Lightbox code (somewhere around line 2767). For each new gallery, you will have to add a additional item to the `data` property. It it important to give your new gallery a new `id`, I used the row number as id. You can basically copy this bit for each new gallery, and add the image files to it.
+Now you need to adjust the Lightbox code (inside lightbox.js). For each new gallery, you will have to add a additional item to the `data` property. It it important to give your new gallery a new `id`, I used the row number as id. You can basically copy this bit for each new gallery, and add the image files to it.
 
 ```{
               "id": 40,
