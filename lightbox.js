@@ -1,4 +1,4 @@
-                  
+
       $(function() {
 
         //Adding a data-index attribute to each image,
@@ -22,62 +22,164 @@
 
           // define data structure inline
           data: [
-            // canyon house (deck id 1)
+            // #63
             {
-              "id": 53,
+              "id": 63,
               "items": [{
-                  "img": "53/1-America-Society-Leonilson.jpg",
+                  "img": "63/1-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "53/2-America-Society-Leonilson.jpg",
+                  "img": "63/2-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "53/3-America-Society-Leonilson.jpg",
+                  "img": "63/3-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "53/4-America-Society-Leonilson.jpg",
+                  "img": "63/4-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "53/5-America-Society-Leonilson.jpg",
+                  "img": "63/5-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "53/6-America-Society-Leonilson.jpg",
+                  "img": "63/6-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "53/7-America-Society-Leonilson.jpg",
+                  "img": "63/7-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "53/8-America-Society-Leonilson.jpg",
+                  "img": "63/8-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
                 },
                 {
-                  "img": "53/9-America-Society-Leonilson.jpg",
+                  "img": "63/9-America-Society-Leonilson.jpg",
                   "width": 959,
                   "height": 700,
                   "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #62
+            {
+              "id": 62,
+              "items": [{
+                  "img": "62/1-Encore-Art_Geneve.jpeg",
+                  "width": 986,
+                  "height": 700,
+                  "caption": "Art Genève"
+                },
+                {
+                  "img": "62/2-Encore-Art_Geneve.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Art Genève"
+                },
+                {
+                  "img": "62/3-Encore-Art_Geneve.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Art Genève"
+                },
+                {
+                  "img": "62/4-Encore-Art_Geneve.jpg",
+                  "width": 1120,
+                  "height": 700,
+                  "caption": "Art Genève"
+                },
+                {
+                  "img": "62/5-Encore-Art_Geneve.jpg",
+                  "width": 1120,
+                  "height": 700,
+                  "caption": "Art Genève"
+                },
+                {
+                  "img": "62/6-Encore-Art_Geneve.jpg",
+                  "width": 986,
+                  "height": 700,
+                  "caption": "Art Genève"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #61
+            {
+              "id": 61,
+              "items": [{
+                  "img": "61/1-Athens-Dialogues-DESTE.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "DESTE Foundation for Contemporary Art"
+                },
+                {
+                  "img": "61/2-Athens-Dialogues-DESTE.jpg",
+                  "width": 921,
+                  "height": 700,
+                  "caption": "DESTE Foundation for Contemporary Art"
+                },
+                {
+                  "img": "61/3-Athens-Dialogues-DESTE.jpg",
+                  "width": 924,
+                  "height": 700,
+                  "caption": "DESTE Foundation for Contemporary Art"
+                },
+                {
+                  "img": "61/4-Athens-Dialogues-DESTE.jpg",
+                  "width": 837,
+                  "height": 700,
+                  "caption": "DESTE Foundation for Contemporary Art"
+                },
+                {
+                  "img": "61/5-Athens-Dialogues-DESTE.jpg",
+                  "width": 839,
+                  "height": 700,
+                  "caption": "DESTE Foundation for Contemporary Art"
+                },
+                {
+                  "img": "61/6-Athens-Dialogues-DESTE.jpg",
+                  "width": 866,
+                  "height": 700,
+                  "caption": "DESTE Foundation for Contemporary Art"
+                },
+                {
+                  "img": "61/7-Athens-Dialogues-DESTE.jpg",
+                  "width": 924,
+                  "height": 700,
+                  "caption": "DESTE Foundation for Contemporary Art"
+                },
+                {
+                  "img": "61/8-Athens-Dialogues-DESTE.jpg",
+                  "width": 893,
+                  "height": 700,
+                  "caption": "DESTE Foundation for Contemporary Art"
+                },
+                {
+                  "img": "61/9-Athens-Dialogues-DESTE.jpg",
+                  "width": 893,
+                  "height": 700,
+                  "caption": "DESTE Foundation for Contemporary Art"
                 }
                 // additional item objects ...
               ]
