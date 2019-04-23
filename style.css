@@ -309,12 +309,16 @@ ol.carousel-indicators li.active {
       top: 0;
       left: 0;
       padding-top: 0.5%;
-      padding-left: 10%;
+      padding-left: 10h %;
       border-right: 1px solid black;
       position: fixed;
       width: 35%;
       height: 100vh;
       background-color: white;
+    }
+
+    .info-bio {
+      padding: 1%;
     }
 
   }
