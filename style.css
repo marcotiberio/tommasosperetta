@@ -274,3 +274,47 @@ ol.carousel-indicators li.active {
   text-align: right;
   outline: none;
 }
+
+
+/* *** MEDIA QUERY *** */
+
+
+@media only screen and (max-width: 600px) {
+
+    html, body {
+      font-size: 15px !important;
+    }
+
+    .main-mobile {
+      padding-top: 5%;
+    }
+
+    .card-body {
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+
+    .container-details>div {
+      padding-right: 5px;
+      text-justify: inter-word !important;
+    }
+
+    .container-header {
+      display: grid;
+      grid-template-columns: 11% 89%;
+    }
+
+    #sidebar {
+      display: none;
+      top: 0;
+      left: 0;
+      padding-top: 0.5%;
+      padding-left: 10.3%;
+      border-right: 1px solid black;
+      position: fixed;
+      width: 35%;
+      height: 100vh;
+      background-color: white;
+    }
+
+  }
