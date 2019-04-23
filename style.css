@@ -11,6 +11,16 @@ html, body {
   line-height: 20px;
 }
 
+.loader {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top:0;
+  left: 0;
+  background: #ffffff;
+  z-index:9999;
+}
+
 table {
   padding: 0.75rem;
   width: 100%;
@@ -55,24 +65,29 @@ thead {
 #number {
   width: 5%;
   padding-left: 0.5%;
+  outline: none;
 }
 
 #role {
   width: 15%;
+  outline: none;
 }
 
 #project {
   width: 40%;
+  outline: none;
 }
 
 #credits {
   width: 30%;
+  outline: none;
 }
 
 #year {
   width: 10%;
   padding-right: 0.5%;
   text-align: right;
+  outline: none;
 }
 
 /* unvisited link */
@@ -210,3 +225,52 @@ a:active {
 }
 
 /* MOBILE MOBILE MOBILE*/
+
+.carousel {
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+
+
+ol.carousel-indicators {
+  position: absolute;
+  bottom: -25px;
+  margin-top: 0;
+  left: 0;
+  right: 0;
+  width: auto;
+}
+
+ol.carousel-indicators li,
+ol.carousel-indicators li.active {
+  float: left;
+  margin: 5px !important;
+  height: 5px;
+  width: 5px;
+  border-radius: 100%;
+  border: 1px solid black;
+  background: transparent;
+}
+
+ol.carousel-indicators li.active {
+  background: black;
+}
+
+#number-mobile {
+  width: 10%;
+  padding-left: 0.5%;
+  outline: none;
+}
+
+#project-mobile {
+  width: 80%;
+  padding-left: 0.5%;
+  outline: none;
+}
+
+#year-mobile {
+  width: 10%;
+  padding-left: 0.5%;
+  text-align: right;
+  outline: none;
+}
