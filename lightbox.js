@@ -135,31 +135,31 @@
                 },
                 {
                   "img": "61/2-Athens-Dialogues-DESTE.jpg",
-                  "width": 921,
+                  "width": 461,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art"
                 },
                 {
                   "img": "61/3-Athens-Dialogues-DESTE.jpg",
-                  "width": 924,
+                  "width": 460,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art"
                 },
                 {
                   "img": "61/4-Athens-Dialogues-DESTE.jpg",
-                  "width": 837,
+                  "width": 419,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art"
                 },
                 {
                   "img": "61/5-Athens-Dialogues-DESTE.jpg",
-                  "width": 839,
+                  "width": 460,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art"
                 },
                 {
                   "img": "61/6-Athens-Dialogues-DESTE.jpg",
-                  "width": 866,
+                  "width": 460,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art"
                 },
@@ -171,15 +171,297 @@
                 },
                 {
                   "img": "61/8-Athens-Dialogues-DESTE.jpg",
-                  "width": 893,
+                  "width": 467,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art"
                 },
                 {
                   "img": "61/9-Athens-Dialogues-DESTE.jpg",
-                  "width": 893,
+                  "width": 460,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #60
+            {
+              "id": 60,
+              "items": [{
+                  "img": "60/1-Jeff-Koons-DESTE.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "60/2-Jeff-Koons-DESTE.jpg",
+                  "width": 492,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "60/3-Jeff-Koons-DESTE.jpg",
+                  "width": 462,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "60/4-Jeff-Koons-DESTE.jpg",
+                  "width": 1046,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "60/5-Jeff-Koons-DESTE.jpg",
+                  "width": 543,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "60/6-Jeff-Koons-DESTE.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "60/7-Jeff-Koons-DESTE.jpg",
+                  "width": 1106,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "60/8-Jeff-Koons-DESTE.jpg",
+                  "width": 542,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "60/9-Jeff-Koons-DESTE.jpg",
+                  "width": 545,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #59
+            {
+              "id": 59,
+              "items": [{
+                  "img": "59/1-DESTE-Kiki-Smith-KM.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "59/2-Kiki-Smith-DESTE-KM.jpg",
+                  "width": 1045,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "59/3-Kiki-Smith-DESTE-KM.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "59/4-Kiki-Smith-DESTE-KM.jpg",
+                  "width": 553,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "59/5-Kiki-Smith-DESTE-KM.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "59/6-Kiki-Smith-DESTE-KM.jpg",
+                  "width": 1045,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "59/7-Kiki-Smith-DESTE-KM.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #58
+            {
+              "id": 58,
+              "items": [{
+                  "img": "58/1-Andra-Ursuta-DESTE-AU.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "58/2-Andra-Ursuta-DESTE-AU.jpg",
+                  "width": 477,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "58/3-Andra-Ursuta-DESTE-AU.jpg",
+                  "width": 970,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "58/4-Andra-Ursuta-DESTE-AU.jpg",
+                  "width": 1156,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "58/5-Andra-Ursuta-DESTE-AU.jpg",
+                  "width": 525,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "58/6-Andra-Ursuta-DESTE-AU.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "58/7-Andra-Ursuta-DESTE-AU.jpg",
+                  "width": 522,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "58/8-Andra-Ursuta-DESTE-AU.jpg",
+                  "width": 523,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "58/9-Andra-Ursuta-DESTE-AU.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #57
+            {
+              "id": 57,
+              "items": [{
+                  "img": "57/1-DESTE-Kerstin-Bratsch-KB.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "57/2-DESTE-Kerstin-Bratsch-KB.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "57/3-DESTE-Kerstin-Bratsch-KB.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "57/4-DESTE-Kerstin-Bratsch-KB.jpg",
+                  "width": 469,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "57/5-DESTE-Kerstin-Bratsch-KB.jpg",
+                  "width": 470,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "57/6-DESTE-Kerstin-Bratsch-KB.jpg",
+                  "width": 730,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "57/7-DESTE-Kerstin-Bratsch-KB.jpg",
+                  "width": 477,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "57/8-DESTE-Kerstin-Bratsch-KB.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #48
+            {
+              "id": 48,
+              "items": [{
+                  "img": "48/1-Athens-Dialogues-DESTE-Benaki.jpg",
+                  "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "48/2-Athens-Dialogues-DESTE-Benaki.jpg",
+                  "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "48/3-Athens-Dialogues-DESTE-Benaki.jpg",
+                  "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "48/4-Athens-Dialogues-DESTE-Benaki.jpg",
+                  "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "48/5-Athens-Dialogues-DESTE-Benaki.jpg",
+                  "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "48/6-Athens-Dialogues-DESTE-Benaki.jpg",
+                  "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "48/7-Athens-Dialogues-DESTE-Benaki.jpg",
+                  "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "48/8-Athens-Dialogues-DESTE-Benaki.jpg",
+                  "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "48/9-Athens-Dialogues-DESTE-Benaki.jpg",
+                  "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
                 }
                 // additional item objects ...
               ]
