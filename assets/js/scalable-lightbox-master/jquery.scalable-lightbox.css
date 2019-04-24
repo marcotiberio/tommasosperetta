@@ -140,7 +140,7 @@
 .sl-index-item-caption {
   position: absolute;
   width: 100%;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .sl-index-item-caption.top {
@@ -149,6 +149,7 @@
 
 .sl-index-item-caption.center {
   top: 50%;
+  text-align: left !important;
 }
 
 .sl-index-item-caption.bottom {
@@ -284,6 +285,7 @@
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif !important;
   text-shadow: 2px 2px 5px rgba(0,0,0,0.6) !important;
   font-size: 11px !important;
+  text-align: left !important;
 }
 
 .sl-lightbox-caption-container.bottom {
@@ -310,6 +312,7 @@
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif !important;
   text-shadow: 2px 2px 5px rgba(0,0,0,0.6) !important;
   font-size: 11px !important;
+  text-align: left !important;
 }
 
 .sl-lightbox-caption-container .right {
