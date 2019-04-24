@@ -114,12 +114,6 @@
                   "width": 1120,
                   "height": 700,
                   "caption": "Art Genève"
-                },
-                {
-                  "img": "62/6-Encore-Art_Geneve.jpg",
-                  "width": 986,
-                  "height": 700,
-                  "caption": "Art Genève"
                 }
                 // additional item objects ...
               ]
@@ -242,7 +236,7 @@
             {
               "id": 59,
               "items": [{
-                  "img": "59/1-DESTE-Kiki-Smith-KM.jpg",
+                  "img": "59/1-DESTE-Kiki-Smith.jpg",
                   "width": 524,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Ellen Page"
@@ -290,7 +284,7 @@
             {
               "id": 58,
               "items": [{
-                  "img": "58/1-Andra-Ursuta-DESTE-AU.jpg",
+                  "img": "58/1-DESTE-Andra-Ursuta.jpg",
                   "width": 524,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |  Ph © Fanis Vlastaras & Rebecca Constantopoulou"
@@ -350,7 +344,7 @@
             {
               "id": 57,
               "items": [{
-                  "img": "57/1-DESTE-Kerstin-Bratsch-KB.jpg",
+                  "img": "57/1-DESTE-Kerstin-Bratsch.jpg",
                   "width": 524,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch for DAS INSTITUT | Ph © Simon Vogel"
@@ -464,7 +458,7 @@
             {
               "id": 44,
               "items": [{
-                  "img": "44/1-DESTE-Kaari-Upson-KA.jpg",
+                  "img": "44/1-DESTE-Kaari-Upson.jpg",
                   "width": 1037,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art and Kaari Upson | Ph © Alessandro Zambianchi"
@@ -664,6 +658,78 @@
                 // additional item objects ...
               ]
             },
+            // #34
+            {
+              "id": 34,
+              "items": [{
+                  "img": "34/1-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+                  "width": 528,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                },
+                {
+                  "img": "34/2-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+                  "width": 942,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                },
+                {
+                  "img": "34/3-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                },
+                {
+                  "img": "34/4-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+                  "width": 933,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                },
+                {
+                  "img": "34/5-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                },
+                {
+                  "img": "34/6-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                },
+                {
+                  "img": "34/7-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                },
+                {
+                  "img": "34/8-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+                  "width": 525,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                },
+                {
+                  "img": "34/9-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+                  "width": 525,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                },
+                {
+                  "img": "34/10-Rob-Pruitt-Flea-Market-AplusA-Gallery-Venezia-7.jpg",
+                  "width": 933,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                },
+                {
+                  "img": "34/11-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+                  "width": 902,
+                  "height": 700,
+                  "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
+                }
+                // additional item objects ...
+              ]
+            },
             // #31
             {
               "id": 31,
@@ -768,6 +834,126 @@
                   "width": 933,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art and Paul Chan | Ph © Paul Chan and Badlands Unlimited"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #29
+            {
+              "id": 29,
+              "items": [{
+                  "img": "29/1-Rebels-Rebel-cover.jpg",
+                  "width": 495,
+                  "height": 700,
+                  "caption": "REBELS REBEL| Ph © Tankboys"
+                },
+                {
+                  "img": "29/2-Rebels-Rebel-AIDS-Profiteer.jpg",
+                  "width": 487,
+                  "height": 700,
+                  "caption": "ACT UP Outreach Committee | Courtesy The New York Public Library"
+                },
+                {
+                  "img": "29/3-Rebels-Rebel-AIDS-1-in-6-1.jpg",
+                  "width": 543,
+                  "height": 700,
+                  "caption": "Gran Fury | Courtesy The New York Public Library"
+                },
+                {
+                  "img": "29/4-Rebels-Rebel-All-People-Innocent.jpg",
+                  "width": 453,
+                  "height": 700,
+                  "caption": "Gran Fury | Courtesy The New York Public Library"
+                },
+                {
+                  "img": "29/5-Rebels-Rebel-Bloody-Hands-photo-2.jpg",
+                  "width": 1054,
+                  "height": 700,
+                  "caption": "Gran Fury | Courtesy The New York Public Library"
+                },
+                {
+                  "img": "29/6-rebels-Rebel-AIDS-Big-Business.jpg",
+                  "width": 1075,
+                  "height": 700,
+                  "caption": "ACT UP Outreach Committee | Courtesy The New York Public Library"
+                },
+                {
+                  "img": "29/7-Rebels-Rebel-Civil-War.jpg",
+                  "width": 538,
+                  "height": 700,
+                  "caption": "Gran Fury | Courtesy The New York Public Library"
+                },
+                {
+                  "img": "29/8-Rebels-Rebel-Four-Questions.jpg",
+                  "width": 472,
+                  "height": 700,
+                  "caption": "Gran Fury | Courtesy The New York Public Library"
+                },
+                {
+                  "img": "29/9-rebels-rebel-Art-Is-Not-Enough.jpg",
+                  "width": 429,
+                  "height": 700,
+                  "caption": "Gran Fury | Courtesy The New York Public Library"
+                },
+                {
+                  "img": "29/10-rebels-Renbel-KDK-photo.jpg",
+                  "width": 992,
+                  "height": 700,
+                  "caption": "Gran Fury | Courtesy The New York Public Library"
+                },
+                {
+                  "img": "29/11-Rebels-Rebel-RML-Boys.jpg",
+                  "width": 449,
+                  "height": 700,
+                  "caption": "Gran Fury | Courtesy The New York Public Library"
+                },
+                {
+                  "img": "29/12-rebels-Rebel-Men-Use-Condoms.jpg",
+                  "width": 478,
+                  "height": 700,
+                  "caption": "Gran Fury | Courtesy The New York Public Library"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #28
+            {
+              "id": 28,
+              "items": [{
+                  "img": "28/1-I-Santillana-Installation-View-Photo-Fabio-Zonta.jpg",
+                  "width": 996,
+                  "height": 700,
+                  "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Fabio Zonta"
+                },
+                {
+                  "img": "28/2-Laura-De-Satinnala-Photo-Fabio-Zonta.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Fabio Zonta"
+                },
+                {
+                  "img": "28/3-Alessandro-Diaz-De-Santillana-Photo-Fabio-Zonta.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Fabio Zonta"
+                },
+                {
+                  "img": "28/4-Laura-De-Satinnala-Photo-Fabio-Zonta.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Fabio Zonta"
+                },
+                {
+                  "img": "28/5-I-Santillana-Installation-View-Photo-Fabio-Zonta.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Fabio Zonta"
+                },
+                {
+                  "img": "28/6-Alessandro-Diaz-De-Santillana-Photo-Fabio-Zonta.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Fabio Zonta"
                 }
                 // additional item objects ...
               ]
@@ -1276,6 +1462,150 @@
                 // additional item objects ...
               ]
             },
+            // #15
+            {
+              "id": 15,
+              "items": [{
+                  "img": "15/1-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 1063,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/2-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 1014,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/3-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 1031,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/4-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 1044,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/5-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 1051,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/6-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/7-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 541,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/8-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 1039,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/9-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 1033,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/10-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 474,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/11-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 1034,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "15/12-PIG-Corita-Kent-Microscope.jpg",
+                  "width": 1024,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #14
+            {
+              "id": 14,
+              "items": [{
+                  "img": "14/1-PIG-women-NB.jpg",
+                  "width": 482,
+                  "height": 700,
+                  "caption": "Nairy Baghramian | Ph © Piotr Niepsuj"
+                },
+                {
+                  "img": "14/2-PIG-women-HB.jpg",
+                  "width": 933,
+                  "height": 700,
+                  "caption": "Huma Bhabha | Ph © Christopher Lucas"
+                },
+                {
+                  "img": "14/3-PIG-women-KC.jpg",
+                  "width": 994,
+                  "height": 700,
+                  "caption": "Keren Cytter | Ph © Todd Jordan"
+                },
+                {
+                  "img": "14/4-PIG-women-IE.jpg",
+                  "width": 1041,
+                  "height": 700,
+                  "caption": "Ida Ekblad | Ph © Lars Botten"
+                },
+                {
+                  "img": "14/5-PIG-women-EF.jpg",
+                  "width": 537,
+                  "height": 700,
+                  "caption": "Elena Filipovic | Ph © Sarah Hermans"
+                },
+                {
+                  "img": "14/7-PIG-women-CK.jpg",
+                  "width": 1014,
+                  "height": 700,
+                  "caption": "Chris Kraus | Ph © Maggie Lee"
+                },
+                {
+                  "img": "14/8-PIG-women-HL.jpg",
+                  "width": 473,
+                  "height": 700,
+                  "caption": "Hanna Liden | Ph © Maggie Lee"
+                },
+                {
+                  "img": "14/9-PIG-women-LO.jpg",
+                  "width": 456,
+                  "height": 700,
+                  "caption": "Laura Owens | Ph © Davida Nemeroff"
+                },
+                {
+                  "img": "14/10-PIG-women-AP.jpg",
+                  "width": 563,
+                  "height": 700,
+                  "caption": "Amalia Pica | Ph © Luca Campri"
+                },
+                {
+                  "img": "14/11-PIG-women-BR.jpg",
+                  "width": 982,
+                  "height": 700,
+                  "caption": "Beatrix Ruf | Ph © Lukas Wassmann"
+                }
+                // additional item objects ...
+              ]
+            },
             // #13
             {
               "id": 13,
@@ -1540,6 +1870,66 @@
                 // additional item objects ...
               ]
             },
+            // #8
+            {
+              "id": 8,
+              "items": [{
+                  "img": "8/1-The-Book-Affair.jpg",
+                  "width": 757,
+                  "height": 824,
+                  "caption": "The Book Affair | Ph © Tankboys"
+                },
+                {
+                  "img": "8/2-The-Book-Affair.jpg",
+                  "width": 537,
+                  "height": 700,
+                  "caption": "The Book Affair | Ph © Tankboys"
+                },
+                {
+                  "img": "8/3-The-Book-Affair.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "The Book Affair | Ph © Tankboys"
+                },
+                {
+                  "img": "8/4-The-Book-Affair.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "The Book Affair | Ph © Tankboys"
+                },
+                {
+                  "img": "8/5-The-Book-Affair.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "The Book Affair | Ph © Tankboys"
+                },
+                {
+                  "img": "8/6-The-Book-Affair.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "The Book Affair | Ph © Tankboys"
+                },
+                {
+                  "img": "8/7-The-Book-Affair.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "The Book Affair | Ph © Tankboys"
+                },
+                {
+                  "img": "8/8-The-Book-Affair.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "The Book Affair | Ph © Tankboys"
+                },
+                {
+                  "img": "8/9-The-Book-Affair.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "The Book Affair | Ph © Tankboys"
+                }
+                // additional item objects ...
+              ]
+            },
             // #7
             {
               "id": 7,
@@ -1581,12 +1971,6 @@
               "id": 4,
               "items": [{
                   "img": "4/1-Fondazione_Buziol-New-York-Memories-Photo-Tankboys.jpg",
-                  "width": 113,
-                  "height": 160,
-                  "caption": "Fondazione Claudio Buziol | Courtesy Tankboys"
-                },
-                {
-                  "img": "4/2-Fondazione_Buziol-New-York-Memories-Photo-Tankboys.jpg",
                   "width": 467,
                   "height": 700,
                   "caption": "Fondazione Claudio Buziol | Ph © Tankboys"
