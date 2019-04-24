@@ -131,55 +131,55 @@
                   "img": "61/1-Athens-Dialogues-DESTE.jpg",
                   "width": 467,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art"
+                  "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 },
                 {
                   "img": "61/2-Athens-Dialogues-DESTE.jpg",
                   "width": 461,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art"
+                  "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 },
                 {
                   "img": "61/3-Athens-Dialogues-DESTE.jpg",
                   "width": 460,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art"
+                  "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 },
                 {
                   "img": "61/4-Athens-Dialogues-DESTE.jpg",
                   "width": 419,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art"
+                  "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 },
                 {
                   "img": "61/5-Athens-Dialogues-DESTE.jpg",
                   "width": 460,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art"
+                  "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 },
                 {
                   "img": "61/6-Athens-Dialogues-DESTE.jpg",
                   "width": 460,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art"
+                  "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 },
                 {
                   "img": "61/7-Athens-Dialogues-DESTE.jpg",
                   "width": 924,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art"
+                  "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 },
                 {
                   "img": "61/8-Athens-Dialogues-DESTE.jpg",
                   "width": 467,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art"
+                  "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 },
                 {
                   "img": "61/9-Athens-Dialogues-DESTE.jpg",
                   "width": 460,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art"
+                  "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 }
                 // additional item objects ...
               ]
@@ -191,55 +191,55 @@
                   "img": "60/1-Jeff-Koons-DESTE.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Jeff Koons"
                 },
                 {
                   "img": "60/2-Jeff-Koons-DESTE.jpg",
                   "width": 492,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Jeff Koons"
                 },
                 {
                   "img": "60/3-Jeff-Koons-DESTE.jpg",
                   "width": 462,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Jeff Koons"
                 },
                 {
                   "img": "60/4-Jeff-Koons-DESTE.jpg",
                   "width": 1046,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Jeff Koons"
                 },
                 {
                   "img": "60/5-Jeff-Koons-DESTE.jpg",
                   "width": 543,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Jeff Koons"
                 },
                 {
                   "img": "60/6-Jeff-Koons-DESTE.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Jeff Koons"
                 },
                 {
                   "img": "60/7-Jeff-Koons-DESTE.jpg",
                   "width": 1106,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Jeff Koons"
                 },
                 {
                   "img": "60/8-Jeff-Koons-DESTE.jpg",
                   "width": 542,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Jeff Koons"
                 },
                 {
                   "img": "60/9-Jeff-Koons-DESTE.jpg",
                   "width": 545,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Jeff Koons"
                 }
                 // additional item objects ...
               ]
@@ -251,43 +251,43 @@
                   "img": "59/1-DESTE-Kiki-Smith-KM.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Ellen Page"
                 },
                 {
                   "img": "59/2-Kiki-Smith-DESTE-KM.jpg",
                   "width": 1045,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Fanis Vlastaras & Rebecca Constantopoulou"
                 },
                 {
                   "img": "59/3-Kiki-Smith-DESTE-KM.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Fanis Vlastaras & Rebecca Constantopoulou"
                 },
                 {
                   "img": "59/4-Kiki-Smith-DESTE-KM.jpg",
                   "width": 553,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Courtesy Anthony d’Offay Gallery, London"
                 },
                 {
                   "img": "59/5-Kiki-Smith-DESTE-KM.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Tom Powel"
                 },
                 {
                   "img": "59/6-Kiki-Smith-DESTE-KM.jpg",
                   "width": 1045,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Courtesy Anthony d’Offay Gallery, London"
                 },
                 {
                   "img": "59/7-Kiki-Smith-DESTE-KM.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "Americas Society"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Stefan Altenburger"
                 }
                 // additional item objects ...
               ]
@@ -460,6 +460,1201 @@
                 {
                   "img": "48/9-Athens-Dialogues-DESTE-Benaki.jpg",
                   "width": 1052,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #44
+            {
+              "id": 44,
+              "items": [{
+                  "img": "44/1-DESTE-Kaari-Upson-KA.jpg",
+                  "width": 1037,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "44/2-DESTE-Kaari-Upson-KA.jpg",
+                  "width": 526,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "44/3-DESTE-Kaari-Upson-KA.jpg",
+                  "width": 525,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "44/4-DESTE-Kaari-Upson-KA.jpg",
+                  "width": 1042,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "44/5-DESTE-Kaari-Upson-KA.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "44/6-DESTE-Kaari-Upson-KA.jpg",
+                  "width": 1149,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "44/7-DESTE-Kaari-Upson-KA.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "44/8-DESTE-Kaari-Upson-KA.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "44/8-DESTE-Kaari-Upson-KA.jpg",
+                  "width": 524,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #41
+            {
+              "id": 41,
+              "items": [{
+                  "img": "41/1-William-Ketridge-TL.jpg",
+                  "width": 501,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "41/2-William-Ketridge-TL.jpg",
+                  "width": 1051,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "41/3-William-Ketridge-TL.jpg",
+                  "width": 979,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "41/4-William-Ketridge-TL.jpg",
+                  "width": 972,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "41/5-William-Ketridge-TL.jpg",
+                  "width": 1012,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "41/6-William-Ketridge-TL.jpg",
+                  "width": 987,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "41/7-William-Ketridge-TL.jpg",
+                  "width": 1029,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "41/8-William-Ketridge-TL.jpg",
+                  "width": 1019,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "41/9-William-Ketridge-TL.jpg",
+                  "width": 976,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #33
+            {
+              "id": 33,
+              "items": [{
+                  "img": "33/1-032C-Lichtenstein.jpg",
+                  "width": 700,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "33/1-032C-Lichtenstein.jpg",
+                  "width": 692,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "33/1-032C-Lichtenstein.jpg",
+                  "width": 700,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "33/1-032C-Lichtenstein.jpg",
+                  "width": 700,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "33/1-032C-Lichtenstein.jpg",
+                  "width": 690,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "33/1-032C-Lichtenstein.jpg",
+                  "width": 700,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #32
+            {
+              "id": 32,
+              "items": [{
+                  "img": "32/1-032C-Paul-Chan.jpg",
+                  "width": 1330,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "32/2-032C-Paul-Chan.jpg",
+                  "width": 525,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "32/3-032C-Paul-Chan.jpg",
+                  "width": 627,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "32/4-032C-Paul-Chan.jpg",
+                  "width": 582,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "32/5-032C-Paul-Chan.jpg",
+                  "width": 1330,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "32/6-032C-Paul-Chan.jpg",
+                  "width": 455,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #31
+            {
+              "id": 31,
+              "items": [{
+                  "img": "31/1-Flash-Art-Kim-Gordon.jpg",
+                  "width": 1048,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "31/2-Flash-Art-Kim-Gordon.jpg",
+                  "width": 1048,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "31/3-Flash-Art-Kim-Gordon.jpg",
+                  "width": 1048,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "31/4-Flash-Art-Kim-Gordon.jpg",
+                  "width": 1048,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "31/5-Flash-Art-Kim-Gordon.jpg",
+                  "width": 1048,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "31/6-Flash-Art-Kim-Gordon.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "31/7-Flash-Art-Kim-Gordon.jpg",
+                  "width": 1048,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "31/8-Flash-Art-Kim-Gordon.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "31/9-Flash-Art-Kim-Gordon.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #30
+            {
+              "id": 30,
+              "items": [{
+                  "img": "30/1-Flash-Art-Paul-Chan.jpg",
+                  "width": 1328,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "30/2-Flash-Art-Paul-Chan.jpg",
+                  "width": 1328,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "30/3-Flash-Art-Paul-Chan.jpg",
+                  "width": 525,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "30/4-Flash-Art-Paul-Chan.jpg",
+                  "width": 933,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "30/5-Flash-Art-Paul-Chan.jpg",
+                  "width": 525,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "30/6-Flash-Art-Paul-Chan.jpg",
+                  "width": 525,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "30/7-Flash-Art-Paul-Chan.jpg",
+                  "width": 933,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #27
+            {
+              "id": 27,
+              "items": [{
+                  "img": "27/1-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "27/2-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "27/3-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "27/4-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "27/5-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "27/6-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "27/7-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "27/8-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "27/9-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "27/10-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #26
+            {
+              "id": 26,
+              "items": [{
+                  "img": "26/1-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 495,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/2-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/3-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/4-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/5-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/6-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/7-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/8-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/9-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 1051,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/10-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 464,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/11-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/12-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 474,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/13-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 465,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "26/14-GTHM-Pentagram-Stiftung.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #25
+            {
+              "id": 25,
+              "items": [{
+                  "img": "25/1-I-Santillana-at-MAK-Photo-Alessandro-Santillana.jpg",
+                  "width": 1034,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "25/2-I-Santillana-at-MAK-Photo-Alessandro-Santillana.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "25/3-I-Santillana-at-MAK-Photo-Alessandro-Santillana.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "25/4-I-Santillana-at-MAK-Photo-Alessandro-Santillana.jpg",
+                  "width": 941,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "25/5-I-Santillana-at-MAK-Photo-Alessandro-Santillana.jpg",
+                  "width": 1031,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #24
+            {
+              "id": 24,
+              "items": [{
+                  "img": "24/1-Domus-Pawel-Althamer.jpg",
+                  "width": 866,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "24/2-Domus-Pawel-Althamer.jpg",
+                  "width": 862,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "24/3-Domus-Pawel-Althamer.jpg",
+                  "width": 876,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "24/4-Domus-Pawel-Althamer.jpg",
+                  "width": 876,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "24/5-Domus-Pawel-Althamer.jpg",
+                  "width": 876,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "24/6-Domus-Pawel-Althamer.jpg",
+                  "width": 1049,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "24/7-Domus-Pawel-Althamer.jpg",
+                  "width": 876,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "24/8-Domus-Pawel-Althamer.jpg",
+                  "width": 876,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #22
+            {
+              "id": 22,
+              "items": [{
+                  "img": "22/1-NotVital_700Snowballs_credits-Eric-Gregory-Powell-2.jpg",
+                  "width": 571,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "22/2-NotVital_700Snowballs_credits-Eric-Gregory-Powell.jpg",
+                  "width": 567,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "22/3-NotVital_700Snowballs_photo-Matteo-de-Fina-7.jpg",
+                  "width": 530,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "22/4-NotVital_700Snowballs_photo-Matteo-de-Fina-13.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #21
+            {
+              "id": 21,
+              "items": [{
+                  "img": "21/1.Napoleone-Martinuzzi-Installation-View-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "21/2.Napoleone-Martinuzzi-Installation-View-Photo-Ettore-Bellini.jpg",
+                  "width": 488,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "21/3.Napoleone-Martinuzzi-Installation-View-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "21/4.Napoleone-Martinuzzi-Installation-View-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "21/5.Napoleone-Martinuzzi-Installation-View-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "21/6.Napoleone-Martinuzzi-Installation-View-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "21/7.Napoleone-Martinuzzi-Installation-View-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #20
+            {
+              "id": 20,
+              "items": [{
+                  "img": "20/1. Installation view-De Commarque-Hatoum-Photo Matteo-De-Fina.jpg",
+                  "width": 1250,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "20/2. Installation view-Rist-Photo Matteo-De-Fina.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "20/3. Installation view-Beshty-Weiner-Penone-Photo-Matteo-De-Fina.jpg",
+                  "width": 1113,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "20/4. Installation view-Anselmio-Sonnier-Photo-Matteo-De-Fina-.jpg",
+                  "width": 960,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "20/7. Installation view-Barry-Le-Va-Photo Matteo-De-Fina.jpg",
+                  "width": 1035,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "20/8. Installation view-Witheread-Merz-Fabro-Hirst-Photo-Matteo-De-Fina.jpg",
+                  "width": 904,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #19
+            {
+              "id": 19,
+              "items": [{
+                  "img": "19/1-MarcelloMaloberti_FondazioneZegnaALL_APERTO2013_photoDemianDupuis.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "19/2-MarcelloMaloberti_FondazioneZegnaALL_APERTO_photoAlessandroGarella.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "19/3-MarcelloMaloberti_FondazioneZegnaALL_APERTO2013_photoDemianDupuis.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "19/4-MarcelloMaloberti_FondazioneZegnaALL_APERTO2013_photoDemianDupuis.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "19/5-MarcelloMaloberti_FondazioneZegnaALL_APERTO2013_photoDemianDupuis.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "19/6-MarcelloMaloberti_FondazioneZegnaALL_APERTO2013_photoDemianDupuis.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "19/7-MarcelloMaloberti_FondazioneZegnaALL_APERTO2013_photoDemianDupuis.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "19/8-MarcelloMaloberti_FondazioneZegnaALL_APERTO2013_photoDemianDupuis.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "19/9-MarcelloMaloberti_FondazioneZegnaALL_APERTO2013_photoDemianDupuis.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #17
+            {
+              "id": 17,
+              "items": [{
+                  "img": "17/1-Querini-Jacob-Hashimoto-Courtesy-Studio-la-Citta.jpg",
+                  "width": 933,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "17/2-Querini-Jacob-Hashimoto-Courtesy-Studio-la-Citta.jpg",
+                  "width": 525,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "17/3-Querini-Jacob-Hashimoto-Courtesy-Studio-la-Citta.jpg",
+                  "width": 933,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "17/4-Querini-Jacob-Hashimoto-Courtesy-Studio-la-Citta.jpg",
+                  "width": 933,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "17/5-Querini-Jacob-Hashimoto-Courtesy-Studio-la-Citta.jpg",
+                  "width": 981,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #16
+            {
+              "id": 16,
+              "items": [{
+                  "img": "16/1 - Carlo-Scarpa-MET.JPG",
+                  "width": 876,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "16/2 - Carlo-Scarpa-MET.JPG",
+                  "width": 1244,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "16/3 - Carlo-Scarpa-MET.JPG",
+                  "width": 1341,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "16/4 - Carlo-Scarpa-MET.JPG",
+                  "width": 1244,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "16/5 - Carlo-Scarpa-MET.JPG",
+                  "width": 1244,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "16/6 - Carlo-Scarpa-MET.JPG",
+                  "width": 1300,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #13
+            {
+              "id": 13,
+              "items": [{
+                  "img": "13/1.Carlo-Scarpa-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "13/2.Carlo-Scarpa-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "13/3.Carlo-Scarpa-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "13/4.Carlo-Scarpa-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "13/5.Carlo-Scarpa-Photo-Ettore-Bellini.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "13/6.Carlo-Scarpa-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "13/7.Carlo-Scarpa-Photo-Ettore-Bellini.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #12
+            {
+              "id": 12,
+              "items": [{
+                  "img": "12/1-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "12/2-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "12/3-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.JPG",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "12/4-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.JPG",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "12/5-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.JPG",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "12/6-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.JPG",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #11
+            {
+              "id": 11,
+              "items": [{
+                  "img": "11/1-Baton_Sinister-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "11/2-Baton_Sinister-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "11/3-Baton_Sinister-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "11/4-Baton_Sinister-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "11/5-Baton_Sinister-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "11/6-Baton_Sinister-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "11/7-Baton_Sinister-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "11/8-Baton_Sinister-Photo-Giulio-Squillacciotti.JPG",
+                  "width": 1053,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #10
+            {
+              "id": 10,
+              "items": [{
+                  "img": "10/1-OCA-IUAV-Beyond Death.jpg",
+                  "width": 495,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "10/2-OCA-IUAV-Beyond Death.JPG",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "10/3-OCA-IUAV-Beyond Death.JPG",
+                  "width": 1116,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "10/4-OCA-IUAV-Beyond Death.JPG",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "10/5-OCA-IUAV-Beyond Death.JPG",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "10/6-OCA-IUAV-Beyond Death.JPG",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "10/7-OCA-IUAV-Beyond Death.JPG",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "10/8-OCA-IUAV-Beyond Death.JPG",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "10/9-OCA-IUAV-Beyond Death.JPG",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #9
+            {
+              "id": 9,
+              "items": [{
+                  "img": "9/1-OCA-State-of-Things-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "9/2-OCA-State-of-Things-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "9/3-OCA-State-of-Things-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "9/4-OCA-State-of-Things-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "9/5-OCA-State-of-Things-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "9/6-OCA-State-of-Things-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "9/7-OCA-State-of-Things-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "9/8-OCA-State-of-Things-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "9/9-OCA-State-of-Things-Photo-Giulio-Squillacciotti.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #7
+            {
+              "id": 7,
+              "items": [{
+                  "img": "7/1-Fondazione_March-Photo-Tankboys.jpg",
+                  "width": 1051,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "7/2-Fondazione_March-Photo-Tankboys.jpg",
+                  "width": 1500,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #6
+            {
+              "id": 6,
+              "items": [{
+                  "img": "6/1-Fondazione_March-Photo-Tankboys.jpg",
+                  "width": 885,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "6/2-Fondazione_March-Photo-Tankboys.jpg",
+                  "width": 1500,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #4
+            {
+              "id": 4,
+              "items": [{
+                  "img": "4/1-Fondazione_Buziol-New-York-Memories-Photo-Tankboys.jpg",
+                  "width": 113,
+                  "height": 160,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "4/2-Fondazione_Buziol-New-York-Memories-Photo-Tankboys.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "4/3-Fondazione_Buziol-New-York-Memories-Photo-Tankboys.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "4/4-Fondazione_Buziol-New-York-Memories-Photo-Tankboys.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "4/5-Fondazione_Buziol-New-York-Memories-Photo-Tankboys.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "4/6-Fondazione_Buziol-New-York-Memories-Photo-Tankboys.jpg",
+                  "width": 1050,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                ,
+                {
+                  "img": "4/7-Fondazione_Buziol-New-York-Memories-Photo-Tankboys.jpg",
+                  "width": 467,
+                  "height": 700,
+                  "caption": "Americas Society"
+                }
+                // additional item objects ...
+              ]
+            },
+            // #2
+            {
+              "id": 2,
+              "items": [{
+                  "img": "2/1-XYZ-Manifesto-Photo-Tankboys.jpg",
+                  "width": 820,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "2/2-XYZ-Manifesto-Garland-Photo-Tankboys.jpg.jpg",
+                  "width": 815,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "2/3-XYZ-Manifesto-Mau-Photo-Tankboys.jpg.jpg",
+                  "width": 482,
+                  "height": 700,
+                  "caption": "Americas Society"
+                },
+                {
+                  "img": "2/4-XYZ-Manifesto-Mari-Photo-Tankboys.jpg.jpg",
+                  "width": 857,
                   "height": 700,
                   "caption": "Americas Society"
                 }
