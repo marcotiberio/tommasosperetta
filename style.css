@@ -71,6 +71,7 @@ thead {
 #role {
   width: 15%;
   outline: none;
+  padding-right: 1.25%;
 }
 
 #project {
@@ -206,7 +207,6 @@ a:active {
 
 #img-project {
   height: 80px;
-  margin: 2px 0;
 }
 /* .container-img {
   display: grid;
