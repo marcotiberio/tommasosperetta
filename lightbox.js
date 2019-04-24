@@ -165,19 +165,13 @@
                 },
                 {
                   "img": "61/7-Athens-Dialogues-DESTE.jpg",
-                  "width": 924,
+                  "width": 467,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 },
                 {
                   "img": "61/8-Athens-Dialogues-DESTE.jpg",
                   "width": 467,
-                  "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
-                },
-                {
-                  "img": "61/9-Athens-Dialogues-DESTE.jpg",
-                  "width": 460,
                   "height": 700,
                   "caption": "DESTE Foundation for Contemporary Art | Ph © Ari Marcopoulos"
                 }
@@ -257,19 +251,19 @@
                   "img": "59/2-Kiki-Smith-DESTE-KM.jpg",
                   "width": 1045,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Fanis Vlastaras & Rebecca Constantopoulou"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou"
                 },
                 {
                   "img": "59/3-Kiki-Smith-DESTE-KM.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Fanis Vlastaras & Rebecca Constantopoulou"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou"
                 },
                 {
                   "img": "59/4-Kiki-Smith-DESTE-KM.jpg",
                   "width": 553,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Courtesy Anthony d’Offay Gallery, London"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith |<br> Courtesy Anthony d’Offay Gallery, London"
                 },
                 {
                   "img": "59/5-Kiki-Smith-DESTE-KM.jpg",
