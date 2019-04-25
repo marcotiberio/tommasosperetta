@@ -239,7 +239,7 @@
                   "img": "59/1-DESTE-Kiki-Smith.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Ellen Page"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith |<br> Ph © Ellen Page"
                 },
                 {
                   "img": "59/2-Kiki-Smith-DESTE-KM.jpg",
@@ -263,19 +263,19 @@
                   "img": "59/5-Kiki-Smith-DESTE-KM.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Tom Powel"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith |<br> Ph © Tom Powel"
                 },
                 {
                   "img": "59/6-Kiki-Smith-DESTE-KM.jpg",
                   "width": 1045,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Courtesy Anthony d’Offay Gallery, London"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith |<br> Courtesy Anthony d’Offay Gallery, London"
                 },
                 {
                   "img": "59/7-Kiki-Smith-DESTE-KM.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith | Ph © Stefan Altenburger"
+                  "caption": "DESTE Foundation for Contemporary Art and Kiki Smith |<br> Ph © Stefan Altenburger"
                 }
                 // additional item objects ...
               ]
@@ -287,55 +287,55 @@
                   "img": "58/1-DESTE-Andra-Ursuta.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |  Ph © Fanis Vlastaras & Rebecca Constantopoulou"
+                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |<br>  Ph © Fanis Vlastaras & Rebecca Constantopoulou"
                 },
                 {
                   "img": "58/2-Andra-Ursuta-DESTE-AU.jpg",
                   "width": 477,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |  Ph © Jason Mandella"
+                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |<br>  Ph © Jason Mandella"
                 },
                 {
                   "img": "58/3-Andra-Ursuta-DESTE-AU.jpg",
                   "width": 970,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |  Ph © Annik Wetter"
+                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |<br>  Ph © Annik Wetter"
                 },
                 {
                   "img": "58/4-Andra-Ursuta-DESTE-AU.jpg",
                   "width": 1156,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |  Ph © Uli Holz"
+                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |<br>  Ph © Uli Holz"
                 },
                 {
                   "img": "58/5-Andra-Ursuta-DESTE-AU.jpg",
                   "width": 525,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |  Ph © Todd White"
+                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |<br>  Ph © Todd White"
                 },
                 {
                   "img": "58/6-Andra-Ursuta-DESTE-AU.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |  Ph © Todd White"
+                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |<br>  Ph © Todd White"
                 },
                 {
                   "img": "58/7-Andra-Ursuta-DESTE-AU.jpg",
                   "width": 522,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |  Ph © Todd White"
+                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |<br>  Ph © Todd White"
                 },
                 {
                   "img": "58/8-Andra-Ursuta-DESTE-AU.jpg",
                   "width": 523,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |  Ph © Philipp Hänger"
+                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |<br>  Ph © Philipp Hänger"
                 },
                 {
                   "img": "58/9-Andra-Ursuta-DESTE-AU.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |  Ph © Alessandro Zambianchi"
+                  "caption": "DESTE Foundation for Contemporary Art and Andra Ursuţa |<br>  Ph © Alessandro Zambianchi"
                 }
                 // additional item objects ...
               ]
@@ -347,49 +347,49 @@
                   "img": "57/1-DESTE-Kerstin-Bratsch.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch for DAS INSTITUT | Ph © Simon Vogel"
+                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch<br> for DAS INSTITUT | Ph © Simon Vogel"
                 },
                 {
                   "img": "57/2-DESTE-Kerstin-Bratsch-KB.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch for DAS INSTITUT | Ph © Simon Vogel"
+                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch<br> for DAS INSTITUT | Ph © Simon Vogel"
                 },
                 {
                   "img": "57/3-DESTE-Kerstin-Bratsch-KB.jpg",
                   "width": 467,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch for DAS INSTITUT | Ph © Simon Vogel"
+                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch<br> for DAS INSTITUT | Ph © Simon Vogel"
                 },
                 {
                   "img": "57/4-DESTE-Kerstin-Bratsch-KB.jpg",
                   "width": 469,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch for DAS INSTITUT | Ph © Simon Vogel"
+                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch<br> for DAS INSTITUT | Ph © Simon Vogel"
                 },
                 {
                   "img": "57/5-DESTE-Kerstin-Bratsch-KB.jpg",
                   "width": 470,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch for DAS INSTITUT | Ph © Simon Vogel"
+                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch<br> for DAS INSTITUT | Ph © Simon Vogel"
                 },
                 {
                   "img": "57/6-DESTE-Kerstin-Bratsch-KB.jpg",
                   "width": 730,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch for DAS INSTITUT | Ph © Simon Vogel"
+                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch<br> for DAS INSTITUT | Ph © Simon Vogel"
                 },
                 {
                   "img": "57/7-DESTE-Kerstin-Bratsch-KB.jpg",
                   "width": 477,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch for DAS INSTITUT | Ph © Simon Vogel"
+                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch<br> for DAS INSTITUT | Ph © Simon Vogel"
                 },
                 {
                   "img": "57/8-DESTE-Kerstin-Bratsch-KB.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch for DAS INSTITUT |  Ph © DAS INSTITUT"
+                  "caption": "DESTE Foundation for Contemporary Art and Kerstin Brätsch<br> for DAS INSTITUT |  Ph © DAS INSTITUT"
                 }
                 // additional item objects ...
               ]
@@ -461,55 +461,55 @@
                   "img": "44/1-DESTE-Kaari-Upson.jpg",
                   "width": 1037,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson | Ph © Alessandro Zambianchi"
+                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Alessandro Zambianchi"
                 },
                 {
                   "img": "44/2-DESTE-Kaari-Upson-KA.jpg",
                   "width": 526,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson | Ph © Fanis Vlastaras & Rebecca Constantopoulou"
+                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou"
                 },
                 {
                   "img": "44/3-DESTE-Kaari-Upson-KA.jpg",
                   "width": 525,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson | Ph © Fredrik Nilsen"
+                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Fredrik Nilsen"
                 },
                 {
                   "img": "44/4-DESTE-Kaari-Upson-KA.jpg",
                   "width": 1042,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson | Ph © Serge Hasenböhler"
+                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Serge Hasenböhler"
                 },
                 {
                   "img": "44/5-DESTE-Kaari-Upson-KA.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson | Ph © Martin Elder"
+                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Martin Elder"
                 },
                 {
                   "img": "44/6-DESTE-Kaari-Upson-KA.jpg",
                   "width": 1149,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson | Ph © Martin Elder"
+                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Martin Elder"
                 },
                 {
                   "img": "44/7-DESTE-Kaari-Upson-KA.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson | Ph © Brian Forrest"
+                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Brian Forrest"
                 },
                 {
                   "img": "44/8-DESTE-Kaari-Upson-KA.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson | Ph © Dario Lasagni"
+                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Dario Lasagni"
                 },
                 {
                   "img": "44/8-DESTE-Kaari-Upson-KA.jpg",
                   "width": 524,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson | Ph © Annik Wetter"
+                  "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Annik Wetter"
                 }
                 // additional item objects ...
               ]
@@ -737,55 +737,55 @@
                   "img": "31/1-Flash-Art-Kim-Gordon.jpg",
                   "width": 1048,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office | Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
+                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
                 },
                 {
                   "img": "31/2-Flash-Art-Kim-Gordon.jpg",
                   "width": 1048,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office | Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
+                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
                 },
                 {
                   "img": "31/3-Flash-Art-Kim-Gordon.jpg",
                   "width": 1048,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office | Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
+                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
                 },
                 {
                   "img": "31/4-Flash-Art-Kim-Gordon.jpg",
                   "width": 1048,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office | Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
+                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
                 },
                 {
                   "img": "31/5-Flash-Art-Kim-Gordon.jpg",
                   "width": 1048,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office | Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
+                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
                 },
                 {
                   "img": "31/6-Flash-Art-Kim-Gordon.jpg",
                   "width": 467,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office | Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
+                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
                 },
                 {
                   "img": "31/7-Flash-Art-Kim-Gordon.jpg",
                   "width": 1048,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office | Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
+                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
                 },
                 {
                   "img": "31/8-Flash-Art-Kim-Gordon.jpg",
                   "width": 467,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office | Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
+                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
                 },
                 {
                   "img": "31/9-Flash-Art-Kim-Gordon.jpg",
                   "width": 467,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office | Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
+                  "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
                 }
                 // additional item objects ...
               ]
@@ -809,31 +809,31 @@
                   "img": "30/3-Flash-Art-Paul-Chan.jpg",
                   "width": 525,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Paul Chan | Ph © Paul Chan and Badlands Unlimited"
+                  "caption": "DESTE Foundation for Contemporary Art and Paul Chan |<br> Ph © Paul Chan and Badlands Unlimited"
                 },
                 {
                   "img": "30/4-Flash-Art-Paul-Chan.jpg",
                   "width": 933,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Paul Chan | Ph © Paul Chan and Badlands Unlimited"
+                  "caption": "DESTE Foundation for Contemporary Art and Paul Chan |<br> Ph © Paul Chan and Badlands Unlimited"
                 },
                 {
                   "img": "30/5-Flash-Art-Paul-Chan.jpg",
                   "width": 525,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Paul Chan | Ph © Paul Chan and Badlands Unlimited"
+                  "caption": "DESTE Foundation for Contemporary Art and Paul Chan |<br> Ph © Paul Chan and Badlands Unlimited"
                 },
                 {
                   "img": "30/6-Flash-Art-Paul-Chan.jpg",
                   "width": 525,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Paul Chan | Ph © Paul Chan and Badlands Unlimited"
+                  "caption": "DESTE Foundation for Contemporary Art and Paul Chan |<br> Ph © Paul Chan and Badlands Unlimited"
                 },
                 {
                   "img": "30/7-Flash-Art-Paul-Chan.jpg",
                   "width": 933,
                   "height": 700,
-                  "caption": "DESTE Foundation for Contemporary Art and Paul Chan | Ph © Paul Chan and Badlands Unlimited"
+                  "caption": "DESTE Foundation for Contemporary Art and Paul Chan |<br> Ph © Paul Chan and Badlands Unlimited"
                 }
                 // additional item objects ...
               ]
@@ -962,18 +962,6 @@
             {
               "id": 27,
               "items": [{
-                  "img": "27/1-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
-                  "width": 1050,
-                  "height": 700,
-                  "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
-                },
-                {
-                  "img": "27/2-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
-                  "width": 1050,
-                  "height": 700,
-                  "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
-                },
-                {
                   "img": "27/3-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
                   "width": 1050,
                   "height": 700,
@@ -981,12 +969,6 @@
                 },
                 {
                   "img": "27/4-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
-                  "width": 1050,
-                  "height": 700,
-                  "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
-                },
-                {
-                  "img": "27/5-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
                   "width": 1050,
                   "height": 700,
                   "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
