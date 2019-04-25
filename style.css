@@ -1,4 +1,4 @@
-html, body {
+body {
   padding: 0;
   margin: 0;
   width: 100%;
@@ -9,6 +9,7 @@ html, body {
   font-variant: normal;
   font-weight: 400;
   line-height: 20px;
+  visibility: hidden;
 }
 
 table {
