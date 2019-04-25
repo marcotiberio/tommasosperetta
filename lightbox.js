@@ -997,6 +997,78 @@ $(function() {
           // additional item objects ...
         ]
       },
+      // #45
+      {
+        "id": 45,
+        "items": [{
+            "img": "45/1-San Serriffe.jpg",
+            "width": 933,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "45/2-San Serriffe.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "45/3-San Serriffe.jpg",
+            "width": 933,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "45/4-San Serriffe.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "45/5-San Serriffe.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "45/6-San Serriffe.jpg",
+            "width": 933,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "45/7-San Serriffe.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "45/8-San Serriffe.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "45/9-San Serriffe.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "45/10-San Serriffe.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "45/11-San Serriffe.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "xxx"
+          }
+          // additional item objects ...
+        ]
+      },
       // #44
       {
         "id": 44,
