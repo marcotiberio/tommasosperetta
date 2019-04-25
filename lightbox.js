@@ -29,58 +29,70 @@ $(function() {
       {
         "id": 63,
         "items": [{
-            "img": "63/1-America-Society-Leonilson.jpg",
-            "width": 959,
+            "img": "63/1-Carlo-Zinelli.jpg",
+            "width": 995,
             "height": 700,
-            "caption": "Americas Society"
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           },
           {
-            "img": "63/2-America-Society-Leonilson.jpg",
-            "width": 959,
+            "img": "63/2-Carlo-Zinelli.jpg",
+            "width": 497,
             "height": 700,
-            "caption": "Americas Society"
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           },
           {
-            "img": "63/3-America-Society-Leonilson.jpg",
-            "width": 959,
+            "img": "63/3-Carlo-Zinelli.jpg",
+            "width": 1002,
             "height": 700,
-            "caption": "Americas Society"
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           },
           {
-            "img": "63/4-America-Society-Leonilson.jpg",
-            "width": 959,
+            "img": "63/4-Carlo-Zinelli.jpg",
+            "width": 490,
             "height": 700,
-            "caption": "Americas Society"
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           },
           {
-            "img": "63/5-America-Society-Leonilson.jpg",
-            "width": 959,
+            "img": "63/5-Carlo-Zinelli.jpg",
+            "width": 498,
             "height": 700,
-            "caption": "Americas Society"
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           },
           {
-            "img": "63/6-America-Society-Leonilson.jpg",
-            "width": 959,
+            "img": "63/6-Carlo-Zinelli.jpg",
+            "width": 546,
             "height": 700,
-            "caption": "Americas Society"
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           },
           {
-            "img": "63/7-America-Society-Leonilson.jpg",
-            "width": 959,
+            "img": "63/7-Carlo-Zinelli.jpg",
+            "width": 500,
             "height": 700,
-            "caption": "Americas Society"
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           },
           {
-            "img": "63/8-America-Society-Leonilson.jpg",
-            "width": 959,
+            "img": "63/8-Carlo-Zinelli.jpg",
+            "width": 508,
             "height": 700,
-            "caption": "Americas Society"
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           },
           {
-            "img": "63/9-America-Society-Leonilson.jpg",
-            "width": 959,
+            "img": "63/9-Carlo-Zinelli.jpg",
+            "width": 504,
             "height": 700,
-            "caption": "Americas Society"
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
+          },
+          {
+            "img": "63/10-Carlo-Zinelli.jpg",
+            "width": 501,
+            "height": 700,
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
+          },
+          {
+            "img": "63/1-Carlo-Zinelli.jpg",
+            "width": 988,
+            "height": 700,
+            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           }
           // additional item objects ...
         ]
@@ -397,6 +409,396 @@ $(function() {
           // additional item objects ...
         ]
       },
+      // #56
+      {
+        "id": 56,
+        "items": [{
+            "img": "56/1-SI-Pavilion.jpg",
+            "width": 493,
+            "height": 700,
+            "caption": "Swiss Institute | © Kate Stout"
+          },
+          {
+            "img": "56/2-SI-Pavilion.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | © Shawn Maximo & Naho Kubota"
+          },
+          {
+            "img": "56/3-SI-Pavilion.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | © Shawn Maximo & Naho Kubota"
+          },
+          {
+            "img": "56/4-SI-Pavilion.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | © Shawn Maximo & Naho Kubota"
+          },
+          {
+            "img": "56/5-SI-Pavilion.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | © Shawn Maximo & Naho Kubota"
+          },
+          {
+            "img": "56/6-SI-Pavilion.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | © Shawn Maximo & Naho Kubota"
+          },
+          {
+            "img": "56/7-SI-Pavilion.jpg",
+            "width": 495,
+            "height": 700,
+            "caption": "Swiss Institute | © Shawn Maximo & Naho Kubota"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #55
+      {
+        "id": 55,
+        "items": [{
+            "img": "55/1-Gagosian-Penone.jpg",
+            "width": 722,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/2-Gagosian-Penone.jpg",
+            "width": 544,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/3-Gagosian-Penone.jpg",
+            "width": 549,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/4-Gagosian-Penone.jpg",
+            "width": 550,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/5-Gagosian-Penone.jpg",
+            "width": 1076,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/6-Gagosian-Penone.jpg",
+            "width": 1068,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/7-Gagosian-Penone.jpg",
+            "width": 496,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/8-Gagosian-Penone.jpg",
+            "width": 496,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/9-Gagosian-Penone.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/10-Gagosian-Penone.jpg",
+            "width": 522,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/11-Gagosian-Penone.jpg",
+            "width": 546,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/12-Gagosian-Penone.jpg",
+            "width": 548,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          },
+          {
+            "img": "55/13-Gagosian-Penone.jpg",
+            "width": 1027,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #54
+      {
+        "id": 54,
+        "items": [{
+            "img": "54/1-Piero-Manzoni-Gagosian.jpg",
+            "width": 476,
+            "height": 700,
+            "caption": "Gagosian and Rizzoli International"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #53
+      {
+        "id": 53,
+        "items": [{
+            "img": "53/1-America-Society-Leonilson.jpg",
+            "width": 959,
+            "height": 700,
+            "caption": "Americas Society | © Projecto Leonilson"
+          },
+          {
+            "img": "53/2-America-Society-Leonilson.jpg",
+            "width": 959,
+            "height": 700,
+            "caption": "Americas Society | © Projecto Leonilson"
+          },
+          {
+            "img": "53/3-America-Society-Leonilson.jpg",
+            "width": 959,
+            "height": 700,
+            "caption": "Americas Society | © Projecto Leonilson"
+          },
+          {
+            "img": "53/4-America-Society-Leonilson.jpg",
+            "width": 959,
+            "height": 700,
+            "caption": "Americas Society | © Projecto Leonilson"
+          },
+          {
+            "img": "53/5-America-Society-Leonilson.jpg",
+            "width": 959,
+            "height": 700,
+            "caption": "Americas Society | © Projecto Leonilson"
+          },
+          {
+            "img": "53/6-America-Society-Leonilson.jpg",
+            "width": 959,
+            "height": 700,
+            "caption": "Americas Society | © Projecto Leonilson"
+          },
+          {
+            "img": "53/7-America-Society-Leonilson.jpg",
+            "width": 959,
+            "height": 700,
+            "caption": "Americas Society | © Projecto Leonilson"
+          },
+          {
+            "img": "53/8-America-Society-Leonilson.jpg",
+            "width": 959,
+            "height": 700,
+            "caption": "Americas Society | © Projecto Leonilson"
+          },
+          {
+            "img": "53/9-America-Society-Leonilson.jpg",
+            "width": 959,
+            "height": 700,
+            "caption": "Americas Society | © Projecto Leonilson"
+          },
+          {
+            "img": "53/10-America-Society-Leonilson.jpg",
+            "width": 959,
+            "height": 700,
+            "caption": "Americas Society | © Projecto Leonilson"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #52
+      {
+        "id": 52,
+        "items": [{
+            "img": "52/1-Americas-Society-Erick-Meyenberg.jpg",
+            "width": 983,
+            "height": 700,
+            "caption": "Americas Society and Yerba Buena Center for the Arts | Courtesy The Artist"
+          },
+          {
+            "img": "52/2-Americas-Society-Erick-Meyenberg-AM.jpg",
+            "width": 520,
+            "height": 700,
+            "caption": "Americas Society and Yerba Buena Center for the Arts | Courtesy The Artist"
+          },
+          {
+            "img": "52/3-Americas-Society-Erick-Meyenberg-AM.jpg",
+            "width": 520,
+            "height": 700,
+            "caption": "Americas Society and Yerba Buena Center for the Arts | Courtesy The Artist"
+          },
+          {
+            "img": "52/4-Americas-Society-Erick-Meyenberg-AM.jpg",
+            "width": 1049,
+            "height": 700,
+            "caption": "Americas Society and Yerba Buena Center for the Arts | Courtesy The Artist"
+          },
+          {
+            "img": "52/5-Americas-Society-Erick-Meyenberg-AM.jpg",
+            "width": 1040,
+            "height": 700,
+            "caption": "Americas Society and Yerba Buena Center for the Arts | Courtesy The Artist"
+          },
+          {
+            "img": "52/6-Americas-Society-Erick-Meyenberg-AM.jpg",
+            "width": 1043,
+            "height": 700,
+            "caption": "Americas Society and Yerba Buena Center for the Arts | Courtesy The Artist"
+          },
+          {
+            "img": "52/7-Americas-Society-Erick-Meyenberg-AM.jpg",
+            "width": 1042,
+            "height": 700,
+            "caption": "Americas Society and Yerba Buena Center for the Arts | Courtesy The Artist"
+          },
+          {
+            "img": "52/8-Americas-Society-Erick-Meyenberg-AM.jpg",
+            "width": 1042,
+            "height": 700,
+            "caption": "Americas Society and Yerba Buena Center for the Arts | Courtesy The Artist"
+          },
+          {
+            "img": "52/9-Americas-Society-Erick-Meyenberg-AM.jpg",
+            "width": 1042,
+            "height": 700,
+            "caption": "Americas Society and Yerba Buena Center for the Arts | Courtesy The Artist"
+          },
+          {
+            "img": "52/10-Americas-Society-Erick-Meyenberg-AM.jpg",
+            "width": 1042,
+            "height": 700,
+            "caption": "Americas Society and Yerba Buena Center for the Arts | Courtesy The Artist"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #51
+      {
+        "id": 51,
+        "items": [{
+            "img": "51/1-AIDS-Video_Interruption-British-Museum.jpg",
+            "width": 935,
+            "height": 700,
+            "caption": "Isaac Julien | Courtesy The Artist"
+          },
+          {
+            "img": "51/3-AIDS-Video_Interruption-British-Museum.jpg",
+            "width": 885,
+            "height": 700,
+            "caption": "Ellen Spiro | Courtesy Video Data Bank"
+          },
+          {
+            "img": "51/4-AIDS-Video_Interruption-British-Museum.jpg",
+            "width": 976,
+            "height": 700,
+            "caption": "Ellen Spiro | Courtesy Video Data Bank"
+          },
+          {
+            "img": "51/5-AIDS-Video_Interruption-British-Museum.jpg",
+            "width": 979,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "51/6-AIDS-Video_Interruption-British-Museum.jpg",
+            "width": 934,
+            "height": 700,
+            "caption": "Tom Kalin | Courtesy Video Data Bank"
+          },
+          {
+            "img": "51/7-AIDS-Video_Interruption-British-Museum.jpg",
+            "width": 936,
+            "height": 700,
+            "caption": "Barbara Hammer | Courtesy Video Data Bank"
+          },
+          {
+            "img": "51/8-AIDS-Video_Interruption-British-Museum.jpg",
+            "width": 935,
+            "height": 700,
+            "caption": "Barbara Hammer | Courtesy Video Data Bank"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #49
+      {
+        "id": 49,
+        "items": [{
+            "img": "49/1-bruno-BJP.jpg",
+            "width": 933,
+            "height": 700,
+            "caption": "bruno | Ph © Bart Julius Peters"
+          },
+          {
+            "img": "49/2-bruno-BJP.jpg",
+            "width": 516,
+            "height": 700,
+            "caption": "bruno | Ph © Bart Julius Peters"
+          },
+          {
+            "img": "49/3-bruno-BJP.jpg",
+            "width": 1031,
+            "height": 700,
+            "caption": "bruno | Ph © Bart Julius Peters"
+          },
+          {
+            "img": "49/4-bruno-BJP.jpg",
+            "width": 1031,
+            "height": 700,
+            "caption": "bruno | Ph © Bart Julius Peters"
+          },
+          {
+            "img": "49/5-bruno-BJP.jpg",
+            "width": 1031,
+            "height": 700,
+            "caption": "bruno | Ph © Bart Julius Peters"
+          },
+          {
+            "img": "49/6-bruno-BJP.jpg",
+            "width": 1031,
+            "height": 700,
+            "caption": "bruno | Ph © Bart Julius Peters"
+          },
+          {
+            "img": "49/7-bruno-BJP.jpg",
+            "width": 1031,
+            "height": 700,
+            "caption": "bruno | Ph © Bart Julius Peters"
+          },
+          {
+            "img": "49/8-bruno-BJP.jpg",
+            "width": 1009,
+            "height": 700,
+            "caption": "bruno | Ph © Bart Julius Peters"
+          },
+          {
+            "img": "49/9-bruno-BJP.jpg",
+            "width": 1009,
+            "height": 700,
+            "caption": "bruno | Ph © Bart Julius Peters"
+          },
+          {
+            "img": "49/10-bruno-BJP.jpg",
+            "width": 1031,
+            "height": 700,
+            "caption": "bruno | Ph © Bart Julius Peters"
+          }
+          // additional item objects ...
+        ]
+      },
       // #48
       {
         "id": 48,
@@ -453,6 +855,144 @@ $(function() {
             "width": 1052,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Freddie F."
+          }
+          // additional item objects ...
+        ]
+      },
+      // #47
+      {
+        "id": 47,
+        "items": [{
+            "img": "47/1-DESTE-Liquid-Antiquity.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art"
+          },
+          {
+            "img": "47/2-DESTE-Liquid-Antiquity-JK.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Jeff Koons | Courtesy DESTE Foundation for Contemporary Art and the artist"
+          },
+          {
+            "img": "47/3-DESTE-Liquid-Antiquity-DJ.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Ashley Bickerton | Courtesy DESTE Foundation for Contemporary Art and the artist"
+          },
+          {
+            "img": "47/4-DESTE-Liquid-Antiquity-CR.jpg",
+            "width": 1120,
+            "height": 700,
+            "caption": "Charles Ray | Courtesy DESTE Foundation for Contemporary Art and the artist"
+          },
+          {
+            "img": "47/5-DESTE-Liquid-Antiquity-DJ.jpg",
+            "width": 1120,
+            "height": 700,
+            "caption": "Chris Ofili | Courtesy DESTE Foundation for Contemporary Art and the artist"
+          },
+          {
+            "img": "47/6-DESTE-Liquid-Antiquity-MC.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Maurizio Cattelan | Courtesy DESTE Foundation for Contemporary Art and the artist"
+          },
+          {
+            "img": "47/7-DESTE-Liquid-Antiquity-UF.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Urs Fischer| Courtesy DESTE Foundation for Contemporary Art and the artist"
+          },
+          {
+            "img": "47/8-DESTE-Liquid-Antiquity-CR.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Charles Ray | Courtesy DESTE Foundation for Contemporary Art and the artist"
+          },
+          {
+            "img": "47/9-DESTE-Liquid-Antiquity-KA.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Charles Ray | Courtesy DESTE Foundation for Contemporary Art and the artist"
+          },
+          {
+            "img": "47/10-DESTE-Liquid-Antiquity-KA.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Kaari Upson | Courtesy DESTE Foundation for Contemporary Art and the artist"
+          },
+          {
+            "img": "47/11-DESTE-Liquid-Antiquity-JF.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Jeff Koons | Courtesy DESTE Foundation for Contemporary Art and the artist"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #46
+      {
+        "id": 46,
+        "items": [{
+            "img": "46/1-RDC-AAL-R.jpg",
+            "width": 568,
+            "height": 700,
+            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
+          },
+          {
+            "img": "46/2-RDC-AAL-R.jpg",
+            "width": 1089,
+            "height": 700,
+            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
+          },
+          {
+            "img": "46/3-RDC-AAL-R.jpg",
+            "width": 1099,
+            "height": 700,
+            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
+          },
+          {
+            "img": "46/4-RDC-AAL-R.jpg",
+            "width": 539,
+            "height": 700,
+            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
+          },
+          {
+            "img": "46/5-RDC-AAL-R.jpg",
+            "width": 539,
+            "height": 700,
+            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
+          },
+          {
+            "img": "46/6-RDC-AAL-R.jpg",
+            "width": 488,
+            "height": 700,
+            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
+          },
+          {
+            "img": "46/7-RDC-AAL-R.jpg",
+            "width": 557,
+            "height": 700,
+            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
+          },
+          {
+            "img": "46/8-RDC-AAL-R.jpg",
+            "width": 1025,
+            "height": 700,
+            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
+          },
+          {
+            "img": "46/9-RDC-AAL-R.jpg",
+            "width": 492,
+            "height": 700,
+            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
+          },
+          {
+            "img": "46/10-RDC-AAL-R.jpg",
+            "width": 540,
+            "height": 700,
+            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
           }
           // additional item objects ...
         ]
@@ -517,6 +1057,156 @@ $(function() {
           // additional item objects ...
         ]
       },
+      // #43
+      {
+        "id": 43,
+        "items": [{
+            "img": "43/1-SI_FindeSiecle.jpg",
+            "width": 493,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "43/2-SI_FindeSiecle.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "43/3-SI_FindeSiecle.jpg",
+            "width": 493,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "43/4-SI_FindeSiecle.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "43/5-SI_FindeSiecle.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "43/6-SI_FindeSiecle.jpg",
+            "width": 493,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "43/7-SI_FindeSiecle.jpg",
+            "width": 490,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "43/8-SI_FindeSiecle.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | © Andreas Angelidakis"
+          },
+          {
+            "img": "43/9-SI_FindeSiecle.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | © Andreas Angelidakis"
+          },
+          {
+            "img": "43/10-SI_FindeSiecle.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | © Andreas Angelidakis"
+          },
+          {
+            "img": "43/11-SI_FindeSiecle.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | © Andreas Angelidakis"
+          },
+          {
+            "img": "43/12-SI_FindeSiecle.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | © Andreas Angelidakis"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #42
+      {
+        "id": 42,
+        "items": [{
+            "img": "42/1-SI_NieleToroni.jpg",
+            "width": 493,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © B. Burkhard"
+          },
+          {
+            "img": "42/2-SI_NieleToroni-DP.jpg",
+            "width": 985,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "42/3-SI_NieleToroni-DP.jpg",
+            "width": 493,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "42/4-SI_NieleToroni-DP.jpg",
+            "width": 985,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "42/5-SI_NieleToroni-DP.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "42/6-SI_NieleToroni-DP.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "42/7-SI_NieleToroni-DP.jpg",
+            "width": 985,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "42/8-SI_NieleToroni-DP.jpg",
+            "width": 493,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "42/9-SI_NieleToroni-DP.jpg",
+            "width": 986,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "42/10-SI_NieleToroni-DP.jpg",
+            "width": 494,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          },
+          {
+            "img": "42/11-SI_NieleToroni-DP.jpg",
+            "width": 985,
+            "height": 700,
+            "caption": "Swiss Institute | Ph © Daniel Pérez"
+          }
+          // additional item objects ...
+        ]
+      },
       // #41
       {
         "id": 41,
@@ -573,6 +1263,324 @@ $(function() {
             "width": 976,
             "height": 700,
             "caption": "William Kentridge | Courtesy Galleria Lia Rumma and Marian Goodman Gallery"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #40
+      {
+        "id": 40,
+        "items": [{
+            "img": "40/1-Rob-Pruitt.jpg",
+            "width": 515,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/2-Rob-Pruitt.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/3-Rob-Pruitt.jpg",
+            "width": 520,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/4-Rob-Pruitt.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/5-Rob-Pruitt.jpg",
+            "width": 508,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/6-Rob-Pruitt.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/7-Rob-Pruitt.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/8-Rob-Pruitt.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/9-Rob-Pruitt.jpg",
+            "width": 546,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/10-Rob-Pruitt.jpg",
+            "width": 525,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/11-Rob-Pruitt.jpg",
+            "width": 547,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/12-Rob-Pruitt.jpg",
+            "width": 533,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          },
+          {
+            "img": "40/13-Rob-Pruitt.jpg",
+            "width": 509,
+            "height": 700,
+            "caption": "bruno | Ph © Rob Pruitt"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #39
+      {
+        "id": 39,
+        "items": [{
+            "img": "39/1-Eddie-Peake-032C.jpg",
+            "width": 1049,
+            "height": 700,
+            "caption": "Barbican Art Gallery | Ph © Justin Piperger"
+          },
+          {
+            "img": "39/2-Eddie-Peake-032C.jpg",
+            "width": 467,
+            "height": 700,
+            "caption": "Barbican Art Gallery | Ph © Justin Piperger"
+          },
+          {
+            "img": "39/3-Eddie-Peake-032C.jpg",
+            "width": 946,
+            "height": 700,
+            "caption": "Barbican Art Gallery | Ph © Justin Piperger"
+          },
+          {
+            "img": "39/4-Eddie-Peake-032C.jpg",
+            "width": 467,
+            "height": 700,
+            "caption": "Barbican Art Gallery | Ph © Justin Piperger"
+          },
+          {
+            "img": "39/5-Eddie-Peake-032C.jpg",
+            "width": 1051,
+            "height": 700,
+            "caption": "Barbican Art Gallery | Ph © Justin Piperger"
+          },
+          {
+            "img": "39/6-Eddie-Peake-032C.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Barbican Art Gallery | Ph © Justin Piperger"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #38
+      {
+        "id": 38,
+        "items": [{
+            "img": "38/1-Flash-Art-Chantal-Ackerman.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "38/2-Flash-Art-Chantal-Ackerman.jpg",
+            "width": 1049,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "38/3-Flash-Art-Chantal-Ackerman.jpg",
+            "width": 933,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "38/4-Flash-Art-Chantal-Ackerman.jpg",
+            "width": 934,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "38/5-Flash-Art-Chantal-Ackerman.jpg",
+            "width": 1053,
+            "height": 700,
+            "caption": "xxx"
+          },
+          {
+            "img": "38/6-Flash-Art-Chantal-Ackerman.jpg",
+            "width": 933,
+            "height": 700,
+            "caption": "xxx"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #37
+      {
+        "id": 37,
+        "items": [{
+            "img": "1-Flash-Art-Cuoghi.jpg",
+            "width": 1215,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
+          },
+          {
+            "img": "1.1-Flash-Art-Cuoghi.jpg",
+            "width": 552,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
+          },
+          {
+            "img": "2-Flash-Art-Cuoghi.jpg",
+            "width": 1213,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
+          },
+          {
+            "img": "3-Flash-Art-Cuoghi.jpg",
+            "width": 1215,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
+          },
+          {
+            "img": "4-Flash-Art-Cuoghi.jpg",
+            "width": 946,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
+          },
+          {
+            "img": "5-Flash-Art-Cuoghi.jpg",
+            "width": 1049,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
+          },
+          {
+            "img": "6-Flash-Art-Cuoghi.jpg",
+            "width": 467,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
+          },
+          {
+            "img": "7-Flash-Art-Cuoghi.jpg",
+            "width": 1219,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
+          },
+          {
+            "img": "8-Flash-Art-Cuoghi.jpg",
+            "width": 474,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
+          },
+          {
+            "img": "9-Flash-Art-Cuoghi.jpg",
+            "width": 1063,
+            "height": 700,
+            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #36
+      {
+        "id": 36,
+        "items": [{
+            "img": "1-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "width": 1066,
+            "height": 700,
+            "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
+          },
+          {
+            "img": "2-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
+          },
+          {
+            "img": "3-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
+          },
+          {
+            "img": "4-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "width": 467,
+            "height": 700,
+            "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
+          },
+          {
+            "img": "5-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "width": 467,
+            "height": 700,
+            "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
+          },
+          {
+            "img": "6-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
+          },
+          {
+            "img": "7-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #35
+      {
+        "id": 35,
+        "items": [{
+            "img": "35/1-Installation view, Laura de Santillana and Alessandro Diaz de Santillana at YSP 2015 (2) © the artists and YSP. Photo © Jonty Wilde.jpg",
+            "width": 1049,
+            "height": 700,
+            "caption": "Pentagram Stiftung and YSP | Ph © Jonty Wilde"
+          },
+          {
+            "img": "35/2-Installation view, Laura de Santillana and Alessandro Diaz de Santillana at YSP 2015 (3) © the artists and YSP. Photo © Jonty Wilde.jpg",
+            "width": 1049,
+            "height": 700,
+            "caption": "Pentagram Stiftung and YSP | Ph © Jonty Wilde"
+          },
+          {
+            "img": "35/3-Installation view, Laura de Santillana and Alessandro Diaz de Santillana at YSP 2015 (4) © the artists and YSP. Photo © Jonty Wilde.jpg",
+            "width": 1049,
+            "height": 700,
+            "caption": "Pentagram Stiftung and YSP | Ph © Jonty Wilde"
+          },
+          {
+            "img": "35/4-Installation view, Laura de Santillana and Alessandro Diaz de Santillana at YSP 2015 © the artists and YSP. Photo © Jonty Wilde.jpg",
+            "width": 467,
+            "height": 700,
+            "caption": "Pentagram Stiftung and YSP | Ph © Jonty Wilde"
+          },
+          {
+            "img": "35/5-Alessandro Diaz de Santillana, HS–YSP, 2011–15 (detail), © the artists and YSP. Photo © Jonty Wilde.jpg",
+            "width": 944,
+            "height": 700,
+            "caption": "Pentagram Stiftung and YSP | Ph © Jonty Wilde"
           }
           // additional item objects ...
         ]
@@ -1369,6 +2377,60 @@ $(function() {
           // additional item objects ...
         ]
       },
+      // #18
+      {
+        "id": 18,
+        "items": [{
+            "img": "18/1-Something-Good-collection.jpg",
+            "width": 981,
+            "height": 700,
+            "caption": "SOMETHING GOOD | Ph © Zaven"
+          },
+          {
+            "img": "18/2-Something-Good-collection.jpg",
+            "width": 981,
+            "height": 700,
+            "caption": "SOMETHING GOOD | © Matteo Zorzenoni"
+          },
+          {
+            "img": "18/3-Something-Good-collection.jpg",
+            "width": 905,
+            "height": 700,
+            "caption": "SOMETHING GOOD | © Giorgio Biscaro"
+          },
+          {
+            "img": "18/4-Something-Good-collection.jpg",
+            "width": 607,
+            "height": 700,
+            "caption": "SOMETHING GOOD | © Zaven"
+          },
+          {
+            "img": "18/5-Something-Good-collection.jpg",
+            "width": 700,
+            "height": 700,
+            "caption": "SOMETHING GOOD | © Zaven"
+          },
+          {
+            "img": "18/6-Something-Good-collection.jpg",
+            "width": 555,
+            "height": 700,
+            "caption": "SOMETHING GOOD | © Giorgio Biscaro"
+          },
+          {
+            "img": "18/7-Something-Good-collection.jpg",
+            "width": 981,
+            "height": 700,
+            "caption": "SOMETHING GOOD | © Giorgio Biscaro"
+          },
+          {
+            "img": "18/8-Something-Good-collection.jpg",
+            "width": 900,
+            "height": 700,
+            "caption": "SOMETHING GOOD | © Giorgio Biscaro"
+          }
+          // additional item objects ...
+        ]
+      },
       // #17
       {
         "id": 17,
@@ -1939,6 +3001,72 @@ $(function() {
           // additional item objects ...
         ]
       },
+      // #5
+      {
+        "id": 5,
+        "items": [{
+            "img": "5/1-People-Meet-In-Architecture.jpg",
+            "width": 1054,
+            "height": 700,
+            "caption": "Berger & Berger | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "5/2-People-Meet-In-Architecture.jpg",
+            "width": 1054,
+            "height": 700,
+            "caption": "Caruso St John + Thomas Demand | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "5/3-People-Meet-In-Architecture.jpg",
+            "width": 1054,
+            "height": 700,
+            "caption": "Cerith Wyn Evans | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "5/4-People-Meet-In-Architecture.jpg",
+            "width": 1054,
+            "height": 700,
+            "caption": "Do-ho Suh + Suh Architects | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "5/5-People-Meet-In-Architecture.jpg",
+            "width": 1054,
+            "height": 700,
+            "caption": "Anton Garcia-Abril + Ensamble Studio | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "5/6-People-Meet-In-Architecture.jpg",
+            "width": 1054,
+            "height": 700,
+            "caption": "Anton Garcia-Abril + Ensamble Studio | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "5/7-People-Meet-In-Architecture.jpg",
+            "width": 1054,
+            "height": 700,
+            "caption": "Pezo von Ellirichshausen Architects | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "5/8-People-Meet-In-Architecture.jpg",
+            "width": 1204,
+            "height": 700,
+            "caption": "Rem Koolhaas | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "5/9-People-Meet-In-Architecture.jpg",
+            "width": 1054,
+            "height": 700,
+            "caption": "Smiljan Radic + Marcela Correa | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "5/10-People-Meet-In-Architecture.jpg",
+            "width": 1054,
+            "height": 700,
+            "caption": "Transsolar + Tetsuo Kondo | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          }
+          // additional item objects ...
+        ]
+      },
       // #4
       {
         "id": 4,
@@ -1981,6 +3109,72 @@ $(function() {
           // additional item objects ...
         ]
       },
+      // #3
+      {
+        "id": 3,
+        "items": [{
+            "img": "3/1-Making-Worlds.jpg",
+            "width": 729,
+            "height": 700,
+            "caption": "John Baldessari | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "3/2-Making-Worlds.jpg",
+            "width": 933,
+            "height": 700,
+            "caption": "Héctor Zamora | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "3/3-Making-Worlds.jpg",
+            "width": 933,
+            "height": 700,
+            "caption": "Paul Chan | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "3/4-Making-Worlds.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Lygia Pape | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "3/5-Making-Worlds.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Moshekwa Langa | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "3/6-Making-Worlds.jpg",
+            "width": 1041,
+            "height": 700,
+            "caption": "Tomas Saraceno | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "3/7-Making-Worlds.jpg",
+            "width": 438,
+            "height": 700,
+            "caption": "Spencer Finch | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "3/8-Making-Worlds.jpg",
+            "width": 1077,
+            "height": 700,
+            "caption": "Jorge Otero-Pailos | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "3/9-Making-Worlds.jpg",
+            "width": 933,
+            "height": 700,
+            "caption": "Tobias Rehberger | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "3/10-Making-Worlds.jpg",
+            "width": 1054,
+            "height": 700,
+            "caption": "Michelangelo Pistoletto | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          }
+          // additional item objects ...
+        ]
+      },
       // #2
       {
         "id": 2,
@@ -2007,6 +3201,72 @@ $(function() {
             "width": 857,
             "height": 700,
             "caption": "XYZ Gallery | Ph © Tankboys"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #1
+      {
+        "id": 1,
+        "items": [{
+            "img": "1/1-Beyond-Archictecture.jpg",
+            "width": 1046,
+            "height": 700,
+            "caption": "Raumlabor | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "1/2-Beyond-Archictecture.jpg",
+            "width": 493,
+            "height": 700,
+            "caption": "Greg Lynn FORM | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "1/3-Beyond-Archictecture.jpg",
+            "width": 467,
+            "height": 700,
+            "caption": "Asymptote | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "1/4-Beyond-Archictecture.jpg",
+            "width": 1044,
+            "height": 700,
+            "caption": "Bjarke Ingels | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "1/5-Beyond-Archictecture.jpg",
+            "width": 466,
+            "height": 700,
+            "caption": "Aranda/Lasch | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "1/6-Beyond-Archictecture.jpg",
+            "width": 544,
+            "height": 700,
+            "caption": "MAD Office| Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "1/7-Beyond-Archictecture.jpg",
+            "width": 1245,
+            "height": 700,
+            "caption": "Syd Matters | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "1/8-Beyond-Archictecture.jpg",
+            "width": 933,
+            "height": 700,
+            "caption": "Droog Design | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "1/9-Beyond-Archictecture.jpg",
+            "width": 1120,
+            "height": 700,
+            "caption": "UNStudio | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
+          },
+          {
+            "img": "1/10-Beyond-Archictecture.jpg",
+            "width": 884,
+            "height": 700,
+            "caption": "Coop Himmelb(l)au | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
           }
           // additional item objects ...
         ]
