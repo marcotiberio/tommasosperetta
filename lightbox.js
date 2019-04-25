@@ -1938,12 +1938,6 @@
                   "width": 1051,
                   "height": 700,
                   "caption": "Fondazione March | Ph © Tankboys"
-                },
-                {
-                  "img": "7/2-Fondazione_March-Photo-Tankboys.jpg",
-                  "width": 1500,
-                  "height": 700,
-                  "caption": "Fondazione March | Ph © Tankboys"
                 }
                 // additional item objects ...
               ]
@@ -1954,12 +1948,6 @@
               "items": [{
                   "img": "6/1-Fondazione_March-Photo-Tankboys.jpg",
                   "width": 885,
-                  "height": 700,
-                  "caption": "Fondazione March | Ph © Tankboys"
-                },
-                {
-                  "img": "6/2-Fondazione_March-Photo-Tankboys.jpg",
-                  "width": 1500,
                   "height": 700,
                   "caption": "Fondazione March | Ph © Tankboys"
                 }
