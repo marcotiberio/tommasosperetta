@@ -29,18 +29,6 @@ $(function() {
       {
         "id": 63,
         "items": [{
-            "img": "63/1-Carlo-Zinelli.jpg",
-            "width": 995,
-            "height": 700,
-            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
-          },
-          {
-            "img": "63/2-Carlo-Zinelli.jpg",
-            "width": 497,
-            "height": 700,
-            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
-          },
-          {
             "img": "63/3-Carlo-Zinelli.jpg",
             "width": 1002,
             "height": 700,
@@ -65,12 +53,6 @@ $(function() {
             "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           },
           {
-            "img": "63/7-Carlo-Zinelli.jpg",
-            "width": 500,
-            "height": 700,
-            "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
-          },
-          {
             "img": "63/8-Carlo-Zinelli.jpg",
             "width": 508,
             "height": 700,
@@ -89,7 +71,7 @@ $(function() {
             "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
           },
           {
-            "img": "63/1-Carlo-Zinelli.jpg",
+            "img": "63/11-Carlo-Zinelli.jpg",
             "width": 988,
             "height": 700,
             "caption": "Fondazione Carlo Zinelli | Ph © Stefano Saccomani"
@@ -413,10 +395,10 @@ $(function() {
       {
         "id": 56,
         "items": [{
-            "img": "56/1-SI-Pavilion.jpg",
+            "img": "56/7-SI-Pavilion.jpg",
             "width": 493,
             "height": 700,
-            "caption": "Swiss Institute | © Kate Stout"
+            "caption": "Swiss Institute | © Shawn Maximo & Naho Kubota"
           },
           {
             "img": "56/2-SI-Pavilion.jpg",
@@ -447,12 +429,6 @@ $(function() {
             "width": 986,
             "height": 700,
             "caption": "Swiss Institute | © Shawn Maximo & Naho Kubota"
-          },
-          {
-            "img": "56/7-SI-Pavilion.jpg",
-            "width": 495,
-            "height": 700,
-            "caption": "Swiss Institute | © Shawn Maximo & Naho Kubota"
           }
           // additional item objects ...
         ]
@@ -479,26 +455,14 @@ $(function() {
             "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
           },
           {
-            "img": "55/4-Gagosian-Penone.jpg",
+            "img": "55/5-Gagosian-Penone.jpg",
             "width": 550,
             "height": 700,
             "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
           },
           {
-            "img": "55/5-Gagosian-Penone.jpg",
-            "width": 1076,
-            "height": 700,
-            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
-          },
-          {
             "img": "55/6-Gagosian-Penone.jpg",
-            "width": 1068,
-            "height": 700,
-            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
-          },
-          {
-            "img": "55/7-Gagosian-Penone.jpg",
-            "width": 496,
+            "width": 1076,
             "height": 700,
             "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
           },
@@ -510,13 +474,7 @@ $(function() {
           },
           {
             "img": "55/9-Gagosian-Penone.jpg",
-            "width": 986,
-            "height": 700,
-            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
-          },
-          {
-            "img": "55/10-Gagosian-Penone.jpg",
-            "width": 522,
+            "width": 546,
             "height": 700,
             "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
           },
@@ -529,12 +487,6 @@ $(function() {
           {
             "img": "55/12-Gagosian-Penone.jpg",
             "width": 548,
-            "height": 700,
-            "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
-          },
-          {
-            "img": "55/13-Gagosian-Penone.jpg",
-            "width": 1027,
             "height": 700,
             "caption": "Gagosian and Rizzoli International | © Giuseppe Penone"
           }
@@ -698,7 +650,7 @@ $(function() {
             "img": "51/3-AIDS-Video_Interruption-British-Museum.jpg",
             "width": 885,
             "height": 700,
-            "caption": "Ellen Spiro | Courtesy Video Data Bank"
+            "caption": "Isaac Julien | Courtesy The Artist"
           },
           {
             "img": "51/4-AIDS-Video_Interruption-British-Museum.jpg",
@@ -710,7 +662,7 @@ $(function() {
             "img": "51/5-AIDS-Video_Interruption-British-Museum.jpg",
             "width": 979,
             "height": 700,
-            "caption": "xxx"
+            "caption": "Ellen Spiro | Courtesy Video Data Bank"
           },
           {
             "img": "51/6-AIDS-Video_Interruption-British-Museum.jpg",
@@ -728,7 +680,7 @@ $(function() {
             "img": "51/8-AIDS-Video_Interruption-British-Museum.jpg",
             "width": 935,
             "height": 700,
-            "caption": "Barbara Hammer | Courtesy Video Data Bank"
+            "caption": "Gran Fury | Courtesy Video Data Bank"
           }
           // additional item objects ...
         ]
@@ -827,19 +779,7 @@ $(function() {
             "caption": "bruno | Ph © Bart Julius Peters"
           },
           {
-            "img": "49/2-bruno-BJP.jpg",
-            "width": 516,
-            "height": 700,
-            "caption": "bruno | Ph © Bart Julius Peters"
-          },
-          {
             "img": "49/3-bruno-BJP.jpg",
-            "width": 1031,
-            "height": 700,
-            "caption": "bruno | Ph © Bart Julius Peters"
-          },
-          {
-            "img": "49/4-bruno-BJP.jpg",
             "width": 1031,
             "height": 700,
             "caption": "bruno | Ph © Bart Julius Peters"
@@ -948,67 +888,49 @@ $(function() {
         "id": 47,
         "items": [{
             "img": "47/1-DESTE-Liquid-Antiquity.jpg",
-            "width": 986,
+            "width": 507,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art"
           },
           {
-            "img": "47/2-DESTE-Liquid-Antiquity-JK.jpg",
-            "width": 1050,
-            "height": 700,
-            "caption": "Jeff Koons | Courtesy DESTE Foundation for Contemporary Art and the artist"
-          },
-          {
-            "img": "47/3-DESTE-Liquid-Antiquity-DJ.jpg",
-            "width": 1050,
-            "height": 700,
-            "caption": "Ashley Bickerton | Courtesy DESTE Foundation for Contemporary Art and the artist"
-          },
-          {
             "img": "47/4-DESTE-Liquid-Antiquity-CR.jpg",
-            "width": 1120,
+            "width": 574,
             "height": 700,
             "caption": "Charles Ray | Courtesy DESTE Foundation for Contemporary Art and the artist"
           },
           {
             "img": "47/5-DESTE-Liquid-Antiquity-DJ.jpg",
-            "width": 1120,
+            "width": 500,
             "height": 700,
             "caption": "Chris Ofili | Courtesy DESTE Foundation for Contemporary Art and the artist"
           },
           {
             "img": "47/6-DESTE-Liquid-Antiquity-MC.jpg",
-            "width": 986,
+            "width": 500,
             "height": 700,
             "caption": "Maurizio Cattelan | Courtesy DESTE Foundation for Contemporary Art and the artist"
           },
           {
             "img": "47/7-DESTE-Liquid-Antiquity-UF.jpg",
-            "width": 986,
+            "width": 500,
             "height": 700,
             "caption": "Urs Fischer| Courtesy DESTE Foundation for Contemporary Art and the artist"
           },
           {
             "img": "47/8-DESTE-Liquid-Antiquity-CR.jpg",
-            "width": 986,
+            "width": 989,
             "height": 700,
             "caption": "Charles Ray | Courtesy DESTE Foundation for Contemporary Art and the artist"
           },
           {
             "img": "47/9-DESTE-Liquid-Antiquity-KA.jpg",
-            "width": 986,
+            "width": 989,
             "height": 700,
             "caption": "Charles Ray | Courtesy DESTE Foundation for Contemporary Art and the artist"
           },
           {
-            "img": "47/10-DESTE-Liquid-Antiquity-KA.jpg",
-            "width": 986,
-            "height": 700,
-            "caption": "Kaari Upson | Courtesy DESTE Foundation for Contemporary Art and the artist"
-          },
-          {
             "img": "47/11-DESTE-Liquid-Antiquity-JF.jpg",
-            "width": 986,
+            "width": 500,
             "height": 700,
             "caption": "Jeff Koons | Courtesy DESTE Foundation for Contemporary Art and the artist"
           }
@@ -1061,20 +983,8 @@ $(function() {
             "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
           },
           {
-            "img": "46/8-RDC-AAL-R.jpg",
-            "width": 1025,
-            "height": 700,
-            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
-          },
-          {
             "img": "46/9-RDC-AAL-R.jpg",
             "width": 492,
-            "height": 700,
-            "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
-          },
-          {
-            "img": "46/10-RDC-AAL-R.jpg",
-            "width": 540,
             "height": 700,
             "caption": "Rizzoli International and RDC/AAL | Courtesy Rafael de Cárdenas"
           }
@@ -1158,43 +1068,37 @@ $(function() {
         "id": 44,
         "items": [{
             "img": "44/1-DESTE-Kaari-Upson.jpg",
-            "width": 1037,
+            "width": 524,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Alessandro Zambianchi"
           },
           {
-            "img": "44/2-DESTE-Kaari-Upson-KA.jpg",
-            "width": 526,
-            "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou"
-          },
-          {
             "img": "44/3-DESTE-Kaari-Upson-KA.jpg",
-            "width": 525,
+            "width": 526,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Fredrik Nilsen"
           },
           {
             "img": "44/4-DESTE-Kaari-Upson-KA.jpg",
-            "width": 1042,
+            "width": 525,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Serge Hasenböhler"
           },
           {
             "img": "44/5-DESTE-Kaari-Upson-KA.jpg",
-            "width": 524,
+            "width": 1042,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Martin Elder"
           },
           {
             "img": "44/6-DESTE-Kaari-Upson-KA.jpg",
-            "width": 1149,
+            "width": 524,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Martin Elder"
           },
           {
             "img": "44/7-DESTE-Kaari-Upson-KA.jpg",
-            "width": 524,
+            "width": 1149,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Brian Forrest"
           },
@@ -1204,12 +1108,6 @@ $(function() {
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Dario Lasagni"
           },
-          {
-            "img": "44/8-DESTE-Kaari-Upson-KA.jpg",
-            "width": 524,
-            "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art and Kaari Upson |<br> Ph © Annik Wetter"
-          }
           // additional item objects ...
         ]
       },
@@ -1224,18 +1122,6 @@ $(function() {
           },
           {
             "img": "43/2-SI_FindeSiecle.jpg",
-            "width": 986,
-            "height": 700,
-            "caption": "Swiss Institute | Ph © Daniel Pérez"
-          },
-          {
-            "img": "43/3-SI_FindeSiecle.jpg",
-            "width": 493,
-            "height": 700,
-            "caption": "Swiss Institute | Ph © Daniel Pérez"
-          },
-          {
-            "img": "43/4-SI_FindeSiecle.jpg",
             "width": 986,
             "height": 700,
             "caption": "Swiss Institute | Ph © Daniel Pérez"
@@ -1271,19 +1157,7 @@ $(function() {
             "caption": "Swiss Institute | © Andreas Angelidakis"
           },
           {
-            "img": "43/10-SI_FindeSiecle.jpg",
-            "width": 986,
-            "height": 700,
-            "caption": "Swiss Institute | © Andreas Angelidakis"
-          },
-          {
             "img": "43/11-SI_FindeSiecle.jpg",
-            "width": 986,
-            "height": 700,
-            "caption": "Swiss Institute | © Andreas Angelidakis"
-          },
-          {
-            "img": "43/12-SI_FindeSiecle.jpg",
             "width": 986,
             "height": 700,
             "caption": "Swiss Institute | © Andreas Angelidakis"
@@ -1299,12 +1173,6 @@ $(function() {
             "width": 493,
             "height": 700,
             "caption": "Swiss Institute | Ph © B. Burkhard"
-          },
-          {
-            "img": "42/2-SI_NieleToroni-DP.jpg",
-            "width": 985,
-            "height": 700,
-            "caption": "Swiss Institute | Ph © Daniel Pérez"
           },
           {
             "img": "42/3-SI_NieleToroni-DP.jpg",
@@ -1367,12 +1235,6 @@ $(function() {
       {
         "id": 41,
         "items": [{
-            "img": "41/1-William-Ketridge-TL.jpg",
-            "width": 501,
-            "height": 700,
-            "caption": "König Books and William Kentridge"
-          },
-          {
             "img": "41/2-William-Ketridge-TL.jpg",
             "width": 1051,
             "height": 700,
@@ -1457,12 +1319,6 @@ $(function() {
             "caption": "bruno | Ph © Rob Pruitt"
           },
           {
-            "img": "40/6-Rob-Pruitt.jpg",
-            "width": 525,
-            "height": 700,
-            "caption": "bruno | Ph © Rob Pruitt"
-          },
-          {
             "img": "40/7-Rob-Pruitt.jpg",
             "width": 525,
             "height": 700,
@@ -1475,26 +1331,8 @@ $(function() {
             "caption": "bruno | Ph © Rob Pruitt"
           },
           {
-            "img": "40/9-Rob-Pruitt.jpg",
-            "width": 546,
-            "height": 700,
-            "caption": "bruno | Ph © Rob Pruitt"
-          },
-          {
             "img": "40/10-Rob-Pruitt.jpg",
             "width": 525,
-            "height": 700,
-            "caption": "bruno | Ph © Rob Pruitt"
-          },
-          {
-            "img": "40/11-Rob-Pruitt.jpg",
-            "width": 547,
-            "height": 700,
-            "caption": "bruno | Ph © Rob Pruitt"
-          },
-          {
-            "img": "40/12-Rob-Pruitt.jpg",
-            "width": 533,
             "height": 700,
             "caption": "bruno | Ph © Rob Pruitt"
           },
@@ -1613,18 +1451,6 @@ $(function() {
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
           {
-            "img": "37/3-Flash-Art-Cuoghi.jpg",
-            "width": 1215,
-            "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
-          },
-          {
-            "img": "37/4-Flash-Art-Cuoghi.jpg",
-            "width": 946,
-            "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
-          },
-          {
             "img": "37/5-Flash-Art-Cuoghi.jpg",
             "width": 1049,
             "height": 700,
@@ -1633,12 +1459,6 @@ $(function() {
           {
             "img": "37/6-Flash-Art-Cuoghi.jpg",
             "width": 467,
-            "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
-          },
-          {
-            "img": "37/7-Flash-Art-Cuoghi.jpg",
-            "width": 1219,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
@@ -1731,12 +1551,6 @@ $(function() {
             "width": 467,
             "height": 700,
             "caption": "Pentagram Stiftung and YSP | Ph © Jonty Wilde"
-          },
-          {
-            "img": "35/5-Alessandro Diaz de Santillana, HS–YSP, 2011–15 (detail), © the artists and YSP. Photo © Jonty Wilde.jpg",
-            "width": 944,
-            "height": 700,
-            "caption": "Pentagram Stiftung and YSP | Ph © Jonty Wilde"
           }
           // additional item objects ...
         ]
@@ -1815,12 +1629,6 @@ $(function() {
             "width": 1330,
             "height": 700,
             "caption": "Paul Chan and Badlands Unlimited | Courtesy The Artist"
-          },
-          {
-            "img": "32/6-032C-Paul-Chan.jpg",
-            "width": 455,
-            "height": 700,
-            "caption": "Paul Chan and Badlands Unlimited | Courtesy The Artist"
           }
           // additional item objects ...
         ]
@@ -1829,12 +1637,6 @@ $(function() {
       {
         "id": 34,
         "items": [{
-            "img": "34/1-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
-            "width": 528,
-            "height": 700,
-            "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
-          },
-          {
             "img": "34/2-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
             "width": 942,
             "height": 700,
@@ -1871,12 +1673,6 @@ $(function() {
             "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
           },
           {
-            "img": "34/8-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
-            "width": 525,
-            "height": 700,
-            "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
-          },
-          {
             "img": "34/9-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
             "width": 525,
             "height": 700,
@@ -1901,12 +1697,6 @@ $(function() {
       {
         "id": 31,
         "items": [{
-            "img": "31/1-Flash-Art-Kim-Gordon.jpg",
-            "width": 1048,
-            "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
-          },
-          {
             "img": "31/2-Flash-Art-Kim-Gordon.jpg",
             "width": 1048,
             "height": 700,
@@ -1921,18 +1711,6 @@ $(function() {
           {
             "img": "31/4-Flash-Art-Kim-Gordon.jpg",
             "width": 1048,
-            "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
-          },
-          {
-            "img": "31/5-Flash-Art-Kim-Gordon.jpg",
-            "width": 1048,
-            "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
-          },
-          {
-            "img": "31/6-Flash-Art-Kim-Gordon.jpg",
-            "width": 467,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art and Kim Gordon–Design Office |<br> Ph © Fanis Vlastaras & Rebecca Constantopoulou | Courtesy 303 Gallery, New York"
           },
@@ -1973,12 +1751,6 @@ $(function() {
             "caption": "Paul Chan | Courtesy Paul Chan and Badlands Unlimited"
           },
           {
-            "img": "30/3-Flash-Art-Paul-Chan.jpg",
-            "width": 525,
-            "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art and Paul Chan |<br> Ph © Paul Chan and Badlands Unlimited"
-          },
-          {
             "img": "30/4-Flash-Art-Paul-Chan.jpg",
             "width": 933,
             "height": 700,
@@ -1986,12 +1758,6 @@ $(function() {
           },
           {
             "img": "30/5-Flash-Art-Paul-Chan.jpg",
-            "width": 525,
-            "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art and Paul Chan |<br> Ph © Paul Chan and Badlands Unlimited"
-          },
-          {
-            "img": "30/6-Flash-Art-Paul-Chan.jpg",
             "width": 525,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art and Paul Chan |<br> Ph © Paul Chan and Badlands Unlimited"
@@ -2163,12 +1929,6 @@ $(function() {
             "width": 1050,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
-          },
-          {
-            "img": "27/10-Tomaso-Buzzi-Photo-Enrio-Fiorese.jpg",
-            "width": 1050,
-            "height": 700,
-            "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
           }
           // additional item objects ...
         ]
@@ -2177,19 +1937,7 @@ $(function() {
       {
         "id": 26,
         "items": [{
-            "img": "26/1-GTHM-Pentagram-Stiftung.jpg",
-            "width": 495,
-            "height": 700,
-            "caption": "Hiroshi Sugimoto | Courtesy The Artist"
-          },
-          {
             "img": "26/2-GTHM-Pentagram-Stiftung.jpg",
-            "width": 1050,
-            "height": 700,
-            "caption": "Pentagram Stiftung and Hiroshi Sugimoto| Ph © Enrico Fiorese"
-          },
-          {
-            "img": "26/3-GTHM-Pentagram-Stiftung.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Pentagram Stiftung and Hiroshi Sugimoto| Ph © Enrico Fiorese"
@@ -2201,12 +1949,6 @@ $(function() {
             "caption": "Pentagram Stiftung and Hiroshi Sugimoto| Ph © Enrico Fiorese"
           },
           {
-            "img": "26/5-GTHM-Pentagram-Stiftung.jpg",
-            "width": 1050,
-            "height": 700,
-            "caption": "Pentagram Stiftung and Hiroshi Sugimoto| Ph © Enrico Fiorese"
-          },
-          {
             "img": "26/6-GTHM-Pentagram-Stiftung.jpg",
             "width": 1050,
             "height": 700,
@@ -2214,12 +1956,6 @@ $(function() {
           },
           {
             "img": "26/7-GTHM-Pentagram-Stiftung.jpg",
-            "width": 1050,
-            "height": 700,
-            "caption": "Pentagram Stiftung and Hiroshi Sugimoto| Ph © Enrico Fiorese"
-          },
-          {
-            "img": "26/8-GTHM-Pentagram-Stiftung.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Pentagram Stiftung and Hiroshi Sugimoto| Ph © Enrico Fiorese"
@@ -2239,12 +1975,6 @@ $(function() {
           {
             "img": "26/11-GTHM-Pentagram-Stiftung.jpg",
             "width": 467,
-            "height": 700,
-            "caption": "Pentagram Stiftung and Hiroshi Sugimoto| Ph © Enrico Fiorese"
-          },
-          {
-            "img": "26/12-GTHM-Pentagram-Stiftung.jpg",
-            "width": 474,
             "height": 700,
             "caption": "Pentagram Stiftung and Hiroshi Sugimoto| Ph © Enrico Fiorese"
           },
@@ -2337,18 +2067,54 @@ $(function() {
             "width": 1049,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art and Pawel Althamer | Ph © Matthew Monteith"
+          }
+          // additional item objects ...
+        ]
+      },
+      // #23
+      {
+        "id": 23,
+        "items": [{
+            "img": "23/1-Domus-Paul-Chan.jpg",
+            "width": 934,
+            "height": 700,
+            "caption": "Paul Chan | Ph © Bisig & Bayer | Courtesy the Artist and Greene Naftali"
           },
           {
-            "img": "24/7-Domus-Pawel-Althamer.jpg",
-            "width": 876,
+            "img": "23/2-Domus-Paul-Chan.jpg",
+            "width": 934,
             "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art and Pawel Althamer | Ph © Matthew Monteith"
+            "caption": "Paul Chan | Ph © Bisig & Bayer | Courtesy the Artist and Greene Naftali"
           },
           {
-            "img": "24/8-Domus-Pawel-Althamer.jpg",
-            "width": 876,
+            "img": "23/3-Domus-Paul-Chan.jpg",
+            "width": 988,
             "height": 700,
-            "caption": "DESTE Foundation for Contemporary Art and Pawel Althamer | Ph © Matthew Monteith"
+            "caption": "Paul Chan | Ph © Jason Mandella | Courtesy the Artist and Greene Naftali"
+          },
+          {
+            "img": "23/4-Domus-Paul-Chan.jpg",
+            "width": 1044,
+            "height": 700,
+            "caption": "Paul Chan | Ph © Jason Mandella | Courtesy the Artist and Greene Naftali"
+          },
+          {
+            "img": "23/5-Domus-Paul-Chan.jpg",
+            "width": 466,
+            "height": 700,
+            "caption": "Paul Chan | Ph © Jason Mandella | Courtesy the Artist and Greene Naftali"
+          },
+          {
+            "img": "23/6-Domus-Paul-Chan.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Paul Chan | Ph © Tom Bisig | Courtesy the Artist and Greene Naftali"
+          },
+          {
+            "img": "23/7-Domus-Paul-Chan.jpg",
+            "width": 1050,
+            "height": 700,
+            "caption": "Paul Chan | Ph © Jason Mandella | Courtesy the Artist and Greene Naftali"
           }
           // additional item objects ...
         ]
@@ -2406,12 +2172,6 @@ $(function() {
           },
           {
             "img": "21/4.Napoleone-Martinuzzi-Installation-View-Photo-Ettore-Bellini.jpg",
-            "width": 1050,
-            "height": 700,
-            "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Ettore Bellini"
-          },
-          {
-            "img": "21/5.Napoleone-Martinuzzi-Installation-View-Photo-Ettore-Bellini.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Ettore Bellini"
@@ -2687,12 +2447,6 @@ $(function() {
             "caption": "Americas Society"
           },
           {
-            "img": "15/4-PIG-Corita-Kent-Microscope.jpg",
-            "width": 1044,
-            "height": 700,
-            "caption": "Americas Society"
-          },
-          {
             "img": "15/5-PIG-Corita-Kent-Microscope.jpg",
             "width": 1051,
             "height": 700,
@@ -2701,12 +2455,6 @@ $(function() {
           {
             "img": "15/6-PIG-Corita-Kent-Microscope.jpg",
             "width": 1052,
-            "height": 700,
-            "caption": "Americas Society"
-          },
-          {
-            "img": "15/7-PIG-Corita-Kent-Microscope.jpg",
-            "width": 541,
             "height": 700,
             "caption": "Americas Society"
           },
@@ -2733,12 +2481,6 @@ $(function() {
             "width": 1034,
             "height": 700,
             "caption": "Americas Society"
-          },
-          {
-            "img": "15/12-PIG-Corita-Kent-Microscope.jpg",
-            "width": 1024,
-            "height": 700,
-            "caption": "Americas Society"
           }
           // additional item objects ...
         ]
@@ -2751,12 +2493,6 @@ $(function() {
             "width": 482,
             "height": 700,
             "caption": "Nairy Baghramian | Ph © Piotr Niepsuj"
-          },
-          {
-            "img": "14/2-PIG-women-HB.jpg",
-            "width": 933,
-            "height": 700,
-            "caption": "Huma Bhabha | Ph © Christopher Lucas"
           },
           {
             "img": "14/3-PIG-women-KC.jpg",
@@ -2781,18 +2517,6 @@ $(function() {
             "width": 1014,
             "height": 700,
             "caption": "Chris Kraus | Ph © Maggie Lee"
-          },
-          {
-            "img": "14/8-PIG-women-HL.jpg",
-            "width": 473,
-            "height": 700,
-            "caption": "Hanna Liden | Ph © Maggie Lee"
-          },
-          {
-            "img": "14/9-PIG-women-LO.jpg",
-            "width": 456,
-            "height": 700,
-            "caption": "Laura Owens | Ph © Davida Nemeroff"
           },
           {
             "img": "14/10-PIG-women-AP.jpg",
@@ -2833,12 +2557,6 @@ $(function() {
           {
             "img": "13/4.Carlo-Scarpa-Photo-Ettore-Bellini.jpg",
             "width": 1050,
-            "height": 700,
-            "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Ettore Bellini"
-          },
-          {
-            "img": "13/5.Carlo-Scarpa-Photo-Ettore-Bellini.jpg",
-            "width": 467,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Ettore Bellini"
           },
@@ -3077,18 +2795,6 @@ $(function() {
       {
         "id": 8,
         "items": [{
-            "img": "8/1-The-Book-Affair.jpg",
-            "width": 757,
-            "height": 824,
-            "caption": "The Book Affair | Ph © Tankboys"
-          },
-          {
-            "img": "8/2-The-Book-Affair.jpg",
-            "width": 537,
-            "height": 700,
-            "caption": "The Book Affair | Ph © Tankboys"
-          },
-          {
             "img": "8/3-The-Book-Affair.jpg",
             "width": 1050,
             "height": 700,
@@ -3113,12 +2819,6 @@ $(function() {
             "caption": "The Book Affair | Ph © Tankboys"
           },
           {
-            "img": "8/7-The-Book-Affair.jpg",
-            "width": 1050,
-            "height": 700,
-            "caption": "The Book Affair | Ph © Tankboys"
-          },
-          {
             "img": "8/8-The-Book-Affair.jpg",
             "width": 1050,
             "height": 700,
@@ -3127,6 +2827,18 @@ $(function() {
           {
             "img": "8/9-The-Book-Affair.jpg",
             "width": 1050,
+            "height": 700,
+            "caption": "The Book Affair | Ph © Tankboys"
+          },
+          {
+            "img": "8/1-The-Book-Affair.jpg",
+            "width": 757,
+            "height": 824,
+            "caption": "The Book Affair | Ph © Tankboys"
+          },
+          {
+            "img": "8/2-The-Book-Affair.jpg",
+            "width": 537,
             "height": 700,
             "caption": "The Book Affair | Ph © Tankboys"
           }
@@ -3183,12 +2895,6 @@ $(function() {
             "width": 1054,
             "height": 700,
             "caption": "Do-ho Suh + Suh Architects | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
-          },
-          {
-            "img": "5/5-People-Meet-In-Architecture.jpg",
-            "width": 1054,
-            "height": 700,
-            "caption": "Anton Garcia-Abril + Ensamble Studio | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
           },
           {
             "img": "5/6-People-Meet-In-Architecture.jpg",
@@ -3321,12 +3027,6 @@ $(function() {
             "width": 933,
             "height": 700,
             "caption": "Tobias Rehberger | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
-          },
-          {
-            "img": "3/10-Making-Worlds.jpg",
-            "width": 1054,
-            "height": 700,
-            "caption": "Michelangelo Pistoletto | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
           }
           // additional item objects ...
         ]
@@ -3369,12 +3069,6 @@ $(function() {
             "width": 1046,
             "height": 700,
             "caption": "Raumlabor | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
-          },
-          {
-            "img": "1/2-Beyond-Archictecture.jpg",
-            "width": 493,
-            "height": 700,
-            "caption": "Greg Lynn FORM | Ph © Giorgio Zucchiatti | Courtesy La Biennale di Venezia"
           },
           {
             "img": "1/3-Beyond-Archictecture.jpg",
