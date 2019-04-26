@@ -1595,61 +1595,61 @@ $(function() {
       {
         "id": 37,
         "items": [{
-            "img": "1-Flash-Art-Cuoghi.jpg",
+            "img": "37/1-Flash-Art-Cuoghi.jpg",
             "width": 1215,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
           {
-            "img": "1.1-Flash-Art-Cuoghi.jpg",
+            "img": "37/1.1-Flash-Art-Cuoghi.jpg",
             "width": 552,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
           {
-            "img": "2-Flash-Art-Cuoghi.jpg",
+            "img": "37/2-Flash-Art-Cuoghi.jpg",
             "width": 1213,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
           {
-            "img": "3-Flash-Art-Cuoghi.jpg",
+            "img": "37/3-Flash-Art-Cuoghi.jpg",
             "width": 1215,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
           {
-            "img": "4-Flash-Art-Cuoghi.jpg",
+            "img": "37/4-Flash-Art-Cuoghi.jpg",
             "width": 946,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
           {
-            "img": "5-Flash-Art-Cuoghi.jpg",
+            "img": "37/5-Flash-Art-Cuoghi.jpg",
             "width": 1049,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
           {
-            "img": "6-Flash-Art-Cuoghi.jpg",
+            "img": "37/6-Flash-Art-Cuoghi.jpg",
             "width": 467,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
           {
-            "img": "7-Flash-Art-Cuoghi.jpg",
+            "img": "37/7-Flash-Art-Cuoghi.jpg",
             "width": 1219,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
           {
-            "img": "8-Flash-Art-Cuoghi.jpg",
+            "img": "37/8-Flash-Art-Cuoghi.jpg",
             "width": 474,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
           },
           {
-            "img": "9-Flash-Art-Cuoghi.jpg",
+            "img": "37/9-Flash-Art-Cuoghi.jpg",
             "width": 1063,
             "height": 700,
             "caption": "DESTE Foundation for Contemporary Art | Ph © Maria Markezi"
@@ -1661,43 +1661,43 @@ $(function() {
       {
         "id": 36,
         "items": [{
-            "img": "1-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "img": "36/1-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
             "width": 1066,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
           },
           {
-            "img": "2-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "img": "36/2-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
           },
           {
-            "img": "3-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "img": "36/3-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
           },
           {
-            "img": "4-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "img": "36/4-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
             "width": 467,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
           },
           {
-            "img": "5-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "img": "36/5-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
             "width": 467,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
           },
           {
-            "img": "6-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "img": "36/6-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
           },
           {
-            "img": "7-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
+            "img": "36/7-Bishofberger-Glass-from-Finland-Photo-Enrico-Fiorese.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Enrico Fiorese"
