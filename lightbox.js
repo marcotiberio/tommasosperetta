@@ -695,12 +695,6 @@ $(function() {
             "caption": "Ph © Bart Julius Peters"
           },
           {
-            "img": "50/2-BJP-bruno.jpg",
-            "width": 463,
-            "height": 700,
-            "caption": "Ph © Bart Julius Peters"
-          },
-          {
             "img": "50/3-BJP-bruno.jpg",
             "width": 1067,
             "height": 700,
@@ -725,18 +719,6 @@ $(function() {
             "caption": "Ph © Bart Julius Peters"
           },
           {
-            "img": "50/7-BJP-bruno.jpg",
-            "width": 466,
-            "height": 700,
-            "caption": "Ph © Bart Julius Peters"
-          },
-          {
-            "img": "50/8-BJP-bruno.jpg",
-            "width": 1150,
-            "height": 700,
-            "caption": "Ph © Bart Julius Peters"
-          },
-          {
             "img": "50/9-BJP-bruno.jpg",
             "width": 1056,
             "height": 700,
@@ -745,12 +727,6 @@ $(function() {
           {
             "img": "50/10-BJP-bruno.jpg",
             "width": 1043,
-            "height": 700,
-            "caption": "Ph © Bart Julius Peters"
-          },
-          {
-            "img": "50/11-BJP-bruno.jpg",
-            "width": 451,
             "height": 700,
             "caption": "Ph © Bart Julius Peters"
           },
