@@ -733,6 +733,90 @@ $(function() {
           // additional item objects ...
         ]
       },
+      // #50
+      {
+        "id": 50,
+        "items": [{
+            "img": "50/1-BJP-bruno.jpg",
+            "width": 427,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/2-BJP-bruno.jpg",
+            "width": 463,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/3-BJP-bruno.jpg",
+            "width": 1067,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/4-BJP-bruno.jpg",
+            "width": 1102,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/5-BJP-bruno.jpg",
+            "width": 465,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/6-BJP-bruno.jpg",
+            "width": 1061,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/7-BJP-bruno.jpg",
+            "width": 466,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/8-BJP-bruno.jpg",
+            "width": 1150,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/9-BJP-bruno.jpg",
+            "width": 1056,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/10-BJP-bruno.jpg",
+            "width": 1043,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/11-BJP-bruno.jpg",
+            "width": 451,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/12-BJP-bruno.jpg",
+            "width": 459,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          },
+          {
+            "img": "50/13-BJP-bruno.jpg",
+            "width": 462,
+            "height": 700,
+            "caption": "Ph © Bart Julius Peters"
+          }
+          // additional item objects ...
+        ]
+      },
       // #49
       {
         "id": 49,
