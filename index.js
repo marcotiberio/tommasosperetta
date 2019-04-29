@@ -1,6 +1,6 @@
 // LOADER
 
-jQuery(document).ready(function(){
+jQuery(document).ready(function() {
   /* Show the HTML page only after the js and css are completely loaded */
   delayShow();
 });
@@ -10,12 +10,9 @@ function delayShow() {
   setTimeout('jQuery("body").css("visibility","visible");', secs);
 }
 
+// SWIPE
+$('.carousel').carousel().swipeCarousel({});
 
-// carousel
-
-$('.carousel').carousel({
-  touch: true
-})
 
 
 // LIGHTBOX
@@ -35,18 +32,18 @@ $('.carousel').carousel({
 
 // OLD SEARCH
 // function searchFunction() {
-    //   const input = document.getElementById("searchInput"),
-    //     filter = input.value.toUpperCase(),
-    //     table = document.getElementById("mainTableBody"),
-    //     entries = table.querySelectorAll("tr:not(.projectinfo)");
+//   const input = document.getElementById("searchInput"),
+//     filter = input.value.toUpperCase(),
+//     table = document.getElementById("mainTableBody"),
+//     entries = table.querySelectorAll("tr:not(.projectinfo)");
 
-    //   // Loop all tr elements
-    //   [...entries].forEach(tr => {
-    //     // Loop all td elements, checking if innerHTML contains #searchInput value
-    //     const containsSearch = [...tr.getElementsByTagName("td")].some(td =>
-    //       td.innerHTML.toUpperCase().includes(filter)
-    //     );
+//   // Loop all tr elements
+//   [...entries].forEach(tr => {
+//     // Loop all td elements, checking if innerHTML contains #searchInput value
+//     const containsSearch = [...tr.getElementsByTagName("td")].some(td =>
+//       td.innerHTML.toUpperCase().includes(filter)
+//     );
 
-    //     tr.style.display = containsSearch ? "table-row" : "none";
-    //   });
-    // }
+//     tr.style.display = containsSearch ? "table-row" : "none";
+//   });
+// }
