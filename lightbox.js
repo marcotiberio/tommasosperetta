@@ -971,70 +971,46 @@ $(function() {
       {
         "id": 45,
         "items": [{
-            "img": "45/1-San Serriffe.jpg",
+            "img": "45/1-BJP.jpg",
             "width": 933,
             "height": 700,
-            "caption": "xxx"
+            "caption": "© San Serriffe"
           },
           {
-            "img": "45/2-San Serriffe.jpg",
+            "img": "45/2-BJP.jpg",
             "width": 525,
             "height": 700,
-            "caption": "xxx"
+            "caption": "© San Serriffe"
           },
           {
-            "img": "45/3-San Serriffe.jpg",
+            "img": "45/3-BJP.jpg",
             "width": 933,
             "height": 700,
-            "caption": "xxx"
+            "caption": "© San Serriffe"
           },
           {
-            "img": "45/4-San Serriffe.jpg",
+            "img": "45/4-BJP.jpg",
             "width": 525,
             "height": 700,
-            "caption": "xxx"
+            "caption": "© San Serriffe"
           },
           {
-            "img": "45/5-San Serriffe.jpg",
+            "img": "45/5-BJP.jpg",
             "width": 525,
             "height": 700,
-            "caption": "xxx"
+            "caption": "© San Serriffe"
           },
           {
-            "img": "45/6-San Serriffe.jpg",
+            "img": "45/6-BJP.jpg",
             "width": 933,
             "height": 700,
-            "caption": "xxx"
+            "caption": "© San Serriffe"
           },
           {
-            "img": "45/7-San Serriffe.jpg",
+            "img": "45/7-BJP.jpg",
             "width": 525,
             "height": 700,
-            "caption": "xxx"
-          },
-          {
-            "img": "45/8-San Serriffe.jpg",
-            "width": 525,
-            "height": 700,
-            "caption": "xxx"
-          },
-          {
-            "img": "45/9-San Serriffe.jpg",
-            "width": 525,
-            "height": 700,
-            "caption": "xxx"
-          },
-          {
-            "img": "45/10-San Serriffe.jpg",
-            "width": 525,
-            "height": 700,
-            "caption": "xxx"
-          },
-          {
-            "img": "45/11-San Serriffe.jpg",
-            "width": 525,
-            "height": 700,
-            "caption": "xxx"
+            "caption": "© San Serriffe"
           }
           // additional item objects ...
         ]
