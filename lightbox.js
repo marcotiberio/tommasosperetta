@@ -1517,31 +1517,31 @@ $(function() {
             "caption": "Estate of Roy Lichtenstein | Ph © Laurie Lambrecht"
           },
           {
-            "img": "33/1-032C-Lichtenstein.jpg",
+            "img": "33/2-032C-Lichtenstein.jpg",
             "width": 692,
             "height": 700,
             "caption": "Estate of Roy Lichtenstein | Ph © Laurie Lambrecht"
           },
           {
-            "img": "33/1-032C-Lichtenstein.jpg",
+            "img": "33/3-032C-Lichtenstein.jpg",
             "width": 700,
             "height": 700,
             "caption": "Estate of Roy Lichtenstein | Ph © Laurie Lambrecht"
           },
           {
-            "img": "33/1-032C-Lichtenstein.jpg",
+            "img": "33/4-032C-Lichtenstein.jpg",
             "width": 700,
             "height": 700,
             "caption": "Estate of Roy Lichtenstein | Ph © Laurie Lambrecht"
           },
           {
-            "img": "33/1-032C-Lichtenstein.jpg",
+            "img": "33/5-032C-Lichtenstein.jpg",
             "width": 690,
             "height": 700,
             "caption": "Estate of Roy Lichtenstein | Ph © Laurie Lambrecht"
           },
           {
-            "img": "33/1-032C-Lichtenstein.jpg",
+            "img": "33/6-032C-Lichtenstein.jpg",
             "width": 700,
             "height": 700,
             "caption": "Estate of Roy Lichtenstein | Ph © Laurie Lambrecht"
