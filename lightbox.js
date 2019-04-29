@@ -996,13 +996,13 @@ $(function() {
           },
           {
             "img": "45/5-BJP.jpg",
-            "width": 525,
+            "width": 537,
             "height": 700,
             "caption": "© San Serriffe"
           },
           {
             "img": "45/6-BJP.jpg",
-            "width": 933,
+            "width": 525,
             "height": 700,
             "caption": "© San Serriffe"
           },
