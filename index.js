@@ -11,6 +11,13 @@ function delayShow() {
 }
 
 
+// carousel
+
+$('.carousel').carousel({
+  touch: true
+})
+
+
 // LIGHTBOX
 // $(document).on('click', '[data-toggle="lightbox"]', function(event) {
 //     event.preventDefault();
