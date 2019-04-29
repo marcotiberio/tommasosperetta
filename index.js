@@ -11,7 +11,17 @@ function delayShow() {
 }
 
 // SWIPE
-$('.carousel').carousel().swipeCarousel({});
+jQuery( function( $ ) {
+    $( '.carousel-inner' ).swipe( {
+        swipeLeft: function( e, direction, distance, duration, count ) {
+            $( this ).parent().carousel( 'prev' );
+        },
+        swipeRight: function( e, direction, distance, duration, count  ) {
+            $( this ).parent().carousel( 'next' );
+        },
+  threshold: 0
+    } );
+} );
 
 
 
