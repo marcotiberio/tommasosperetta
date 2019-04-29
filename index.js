@@ -14,10 +14,10 @@ function delayShow() {
 jQuery( function( $ ) {
     $( '.carousel-inner' ).swipe( {
         swipeLeft: function( e, direction, distance, duration, count ) {
-            $( this ).parent().carousel( 'prev' );
+            $( this ).parent().carousel( 'next' );
         },
         swipeRight: function( e, direction, distance, duration, count  ) {
-            $( this ).parent().carousel( 'next' );
+            $( this ).parent().carousel( 'prev' );
         },
   threshold: 0
     } );
