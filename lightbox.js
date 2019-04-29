@@ -2339,37 +2339,37 @@ $(function() {
       {
         "id": 16,
         "items": [{
-            "img": "16/1 - Carlo-Scarpa-MET.jpg",
+            "img": "16/1---Carlo-Scarpa-MET.jpg",
             "width": 876,
             "height": 700,
             "caption": "Metropolitan Museum of Art| Courtesy Le Stanze del Vetro"
           },
           {
-            "img": "16/2 - Carlo-Scarpa-MET.jpg",
+            "img": "16/2---Carlo-Scarpa-MET.jpg",
             "width": 1244,
             "height": 700,
             "caption": "Metropolitan Museum of Art| Courtesy Le Stanze del Vetro"
           },
           {
-            "img": "16/3 - Carlo-Scarpa-MET.jpg",
+            "img": "16/3---Carlo-Scarpa-MET.jpg",
             "width": 1341,
             "height": 700,
             "caption": "Metropolitan Museum of Art| Courtesy Le Stanze del Vetro"
           },
           {
-            "img": "16/4 - Carlo-Scarpa-MET.jpg",
+            "img": "16/4---Carlo-Scarpa-MET.jpg",
             "width": 1244,
             "height": 700,
             "caption": "Metropolitan Museum of Art| Courtesy Le Stanze del Vetro"
           },
           {
-            "img": "16/5 - Carlo-Scarpa-MET.jpg",
+            "img": "16/5---Carlo-Scarpa-MET.jpg",
             "width": 1244,
             "height": 700,
             "caption": "Metropolitan Museum of Art| Courtesy Le Stanze del Vetro"
           },
           {
-            "img": "16/6 - Carlo-Scarpa-MET.jpg",
+            "img": "16/6---Carlo-Scarpa-MET.jpg",
             "width": 1300,
             "height": 700,
             "caption": "Metropolitan Museum of Art| Courtesy Le Stanze del Vetro"
@@ -2531,37 +2531,37 @@ $(function() {
       {
         "id": 12,
         "items": [{
-            "img": "12/1-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.jpg",
+            "img": "12/1-Fondazione-Zegna-.-Roman-Signer-.-Horloge-.-ph-Demian-Dupuis.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Fondazione Zegna and Roman Signer | Ph © Demian Dupuis"
           },
           {
-            "img": "12/2-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.jpg",
+            "img": "12/2-Fondazione-Zegna-.-Roman-Signer-.-Horloge-.-ph-Demian-Dupuis.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Fondazione Zegna and Roman Signer | Ph © Demian Dupuis"
           },
           {
-            "img": "12/3-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.jpg",
+            "img": "12/3-Fondazione-Zegna-.-Roman-Signer-.-Horloge-.-ph-Demian-Dupuis.jpg",
             "width": 467,
             "height": 700,
             "caption": "Fondazione Zegna and Roman Signer | Ph © Demian Dupuis"
           },
           {
-            "img": "12/4-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.jpg",
+            "img": "12/4-Fondazione-Zegna-.-Roman-Signer-.-Horloge-.-ph-Demian-Dupuis.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Fondazione Zegna and Roman Signer | Ph © Demian Dupuis"
           },
           {
-            "img": "12/5-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.jpg",
+            "img": "12/5-Fondazione-Zegna-.-Roman-Signer-.-Horloge-.-ph-Demian-Dupuis.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Fondazione Zegna and Roman Signer | Ph © Demian Dupuis"
           },
           {
-            "img": "12/6-Fondazione Zegna . Roman Signer . Horloge . ph Demian Dupuis.jpg",
+            "img": "12/6-Fondazione-Zegna-.-Roman-Signer-.-Horloge-.-ph-Demian-Dupuis.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Fondazione Zegna and Roman Signer | Ph © Demian Dupuis"
@@ -2627,55 +2627,55 @@ $(function() {
       {
         "id": 10,
         "items": [{
-            "img": "10/1-OCA-IUAV-Beyond Death.jpg",
+            "img": "10/1-OCA-IUAV-Beyond-Death.jpg",
             "width": 495,
             "height": 700,
             "caption": "IUAV University and Bjarne Melgaard | Courtesy An Art Service"
           },
           {
-            "img": "10/2-OCA-IUAV-Beyond Death.jpg",
+            "img": "10/2-OCA-IUAV-Beyond-Death.jpg",
             "width": 1050,
             "height": 700,
             "caption": "IUAV University and Bjarne Melgaard | Ph © Corinne Mazzoli"
           },
           {
-            "img": "10/3-OCA-IUAV-Beyond Death.jpg",
+            "img": "10/3-OCA-IUAV-Beyond-Death.jpg",
             "width": 1116,
             "height": 700,
             "caption": "IUAV University and Bjarne Melgaard | Ph © Corinne Mazzoli"
           },
           {
-            "img": "10/4-OCA-IUAV-Beyond Death.jpg",
+            "img": "10/4-OCA-IUAV-Beyond-Death.jpg",
             "width": 1050,
             "height": 700,
             "caption": "IUAV University and Bjarne Melgaard | Ph © Corinne Mazzoli"
           },
           {
-            "img": "10/5-OCA-IUAV-Beyond Death.jpg",
+            "img": "10/5-OCA-IUAV-Beyond-Death.jpg",
             "width": 1050,
             "height": 700,
             "caption": "IUAV University and Bjarne Melgaard | Ph © Corinne Mazzoli"
           },
           {
-            "img": "10/6-OCA-IUAV-Beyond Death.jpg",
+            "img": "10/6-OCA-IUAV-Beyond-Death.jpg",
             "width": 1050,
             "height": 700,
             "caption": "IUAV University and Bjarne Melgaard | Ph © Corinne Mazzoli"
           },
           {
-            "img": "10/7-OCA-IUAV-Beyond Death.jpg",
+            "img": "10/7-OCA-IUAV-Beyond-Death.jpg",
             "width": 1050,
             "height": 700,
             "caption": "IUAV University and Bjarne Melgaard | Ph © Corinne Mazzoli"
           },
           {
-            "img": "10/8-OCA-IUAV-Beyond Death.jpg",
+            "img": "10/8-OCA-IUAV-Beyond-Death.jpg",
             "width": 1050,
             "height": 700,
             "caption": "IUAV University and Bjarne Melgaard | Ph © Corinne Mazzoli"
           },
           {
-            "img": "10/9-OCA-IUAV-Beyond Death.jpg",
+            "img": "10/9-OCA-IUAV-Beyond-Death.jpg",
             "width": 1050,
             "height": 700,
             "caption": "IUAV University and Bjarne Melgaard | Ph © Corinne Mazzoli"
