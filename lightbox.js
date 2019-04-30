@@ -1589,12 +1589,6 @@ $(function() {
       {
         "id": 34,
         "items": [{
-            "img": "34/1-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
-            "width": 942,
-            "height": 700,
-            "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
-          },
-          {
             "img": "34/3-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
             "width": 1050,
             "height": 700,
