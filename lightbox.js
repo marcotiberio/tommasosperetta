@@ -2609,7 +2609,7 @@ $(function() {
             "caption": "OCA Norway and Bjarne Melgaard | Ph © Giulio Squillacciotti"
           },
           {
-            "img": "11/8-Baton_Sinister-Photo-Giulio-Squillacciotti.jpg",
+            "img": "11/8-Baton_Sinister-Photo-Giulio-Squillacciotti.JPG",
             "width": 1053,
             "height": 700,
             "caption": "OCA Norway and Bjarne Melgaard | Ph © Giulio Squillacciotti"
