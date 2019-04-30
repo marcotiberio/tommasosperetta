@@ -1589,7 +1589,7 @@ $(function() {
       {
         "id": 34,
         "items": [{
-            "img": "34/2-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
+            "img": "34/1-Gavin-Brown-Rob-Pruitt-Courtesy-A-Plus-A.jpg",
             "width": 942,
             "height": 700,
             "caption": "Courtesy A Plus A Gallery and Gavin Brown's enterprise"
@@ -2147,37 +2147,37 @@ $(function() {
       {
         "id": 20,
         "items": [{
-            "img": "20/1. Installation view-De Commarque-Hatoum-Photo Matteo-De-Fina.jpg",
+            "img": "20/1.-Installation-view-De-Commarque-Hatoum-Photo-Matteo-De-Fina.jpg",
             "width": 1250,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Matteo De Fina"
           },
           {
-            "img": "20/2. Installation view-Rist-Photo Matteo-De-Fina.jpg",
+            "img": "20/2.-Installation-view-Rist-Photo-Matteo-De-Fina.jpg",
             "width": 1050,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Matteo De Fina"
           },
           {
-            "img": "20/3. Installation view-Beshty-Weiner-Penone-Photo-Matteo-De-Fina.jpg",
+            "img": "20/3.-Installation-view-Beshty-Weiner-Penone-Photo-Matteo-De-Fina.jpg",
             "width": 1113,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Matteo De Fina"
           },
           {
-            "img": "20/4. Installation view-Anselmio-Sonnier-Photo-Matteo-De-Fina-.jpg",
+            "img": "20/4.-Installation-view-Anselmio-Sonnier-Photo-Matteo-De-Fina-.jpg",
             "width": 960,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Matteo De Fina"
           },
           {
-            "img": "20/7. Installation view-Barry-Le-Va-Photo Matteo-De-Fina.jpg",
+            "img": "20/7.-Installation-view-Barry-Le-Va-Photo-Matteo-De-Fina.jpg",
             "width": 1035,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Matteo De Fina"
           },
           {
-            "img": "20/8. Installation view-Witheread-Merz-Fabro-Hirst-Photo-Matteo-De-Fina.jpg",
+            "img": "20/8.-Installation-view-Witheread-Merz-Fabro-Hirst-Photo-Matteo-De-Fina.jpg",
             "width": 904,
             "height": 700,
             "caption": "Pentagram Stiftung and Fondazione Giorgio Cini | Ph © Matteo De Fina"
