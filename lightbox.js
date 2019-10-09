@@ -25,6 +25,66 @@ $(function() {
 
     // define data structure inline
     data: [
+      // #64
+      {
+        "id": 64,
+        "items": [{
+            "img": "64/1-de-Chirico.jpeg",
+            "width": 606,
+            "height": 700,
+            "caption": "Palazzo Reale | © Tate Modern, London"
+          },
+          {
+            "img": "64/2-de-Chirico.jpeg",
+            "width": 530,
+            "height": 700,
+            "caption": "Palazzo Reale | © Carlon Collection, Verona"
+          },
+          {
+            "img": "64/3-de-Chirico.jpeg",
+            "width": 522,
+            "height": 700,
+            "caption": "Palazzo Reale | © Castello di Rivoli Museo d’Arte Contemporanea, Trento"
+          },
+          {
+            "img": "64/4-de-Chirico.jpeg",
+            "width": 424,
+            "height": 700,
+            "caption": "Palazzo Reale | © Privata Collection"
+          },
+          {
+            "img": "64/5-de-Chirico.jpeg",
+            "width": 518,
+            "height": 700,
+            "caption": "Palazzo Reale | © Laurini Collection, Milan"
+          },
+          {
+            "img": "64/6-de-Chirico.jpeg",
+            "width": 1031,
+            "height": 700,
+            "caption": "Palazzo Reale | © Casa Museo Boschi Di Stefano, Milan"
+          },
+          {
+            "img": "64/7-de-Chirico.jpeg",
+            "width": 997,
+            "height": 700,
+            "caption": "Palazzo Reale | © Galleria dello Scudo, Verona"
+          },
+          {
+            "img": "64/8-de-Chirico.jpeg",
+            "width": 530,
+            "height": 700,
+            "caption": "Palazzo Reale | © Museo Casa Rodolfo Siviero, Florence"
+          },
+          {
+            "img": "64/9-de-Chirico.jpeg",
+            "width": 500,
+            "height": 700,
+            "caption": "Palazzo Reale | © Giorgio de Chirico Foundation, Rome"
+          }
+          // additional item objects ...
+        ]
+      },
       // #63
       {
         "id": 63,
