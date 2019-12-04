@@ -558,10 +558,34 @@ $(function() {
         "id": 54,
         "items": [{
             "img": "54/1-Piero-Manzoni-Gagosian.jpg",
-            "width": 476,
-            "height": 700,
+            "width": 800,
+            "height": 600,
             "caption": "Gagosian and Rizzoli International"
-          }
+          },
+          {
+            "img": "54/2-Piero-Manzoni-Gagosian.jpg",
+            "width": 800,
+            "height": 600,
+            "caption": "Gagosian and Rizzoli International"
+          },
+          {
+            "img": "54/3-Piero-Manzoni-Gagosian.jpg",
+            "width": 800,
+            "height": 600,
+            "caption": "Gagosian and Rizzoli International"
+          },
+          {
+            "img": "54/4-Piero-Manzoni-Gagosian.jpg",
+            "width": 800,
+            "height": 600,
+            "caption": "Gagosian and Rizzoli International"
+          },
+          {
+            "img": "54/5-Piero-Manzoni-Gagosian.jpg",
+            "width": 800,
+            "height": 600,
+            "caption": "Gagosian and Rizzoli International"
+          },
           // additional item objects ...
         ]
       },
