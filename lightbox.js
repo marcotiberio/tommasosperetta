@@ -2859,18 +2859,6 @@ $(function() {
             "width": 1050,
             "height": 700,
             "caption": "The Book Affair | Ph © Tankboys"
-          },
-          {
-            "img": "8/1-The-Book-Affair.jpg",
-            "width": 757,
-            "height": 824,
-            "caption": "The Book Affair | Ph © Tankboys"
-          },
-          {
-            "img": "8/2-The-Book-Affair.jpg",
-            "width": 537,
-            "height": 700,
-            "caption": "The Book Affair | Ph © Tankboys"
           }
           // additional item objects ...
         ]
