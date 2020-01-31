@@ -558,8 +558,8 @@ $(function() {
         "id": 54,
         "items": [{
             "img": "54/1-Piero-Manzoni-Gagosian.jpg",
-            "width": 800,
-            "height": 600,
+            "width": 555,
+            "height": 800,
             "caption": "Gagosian and Rizzoli International"
           },
           {
@@ -582,8 +582,8 @@ $(function() {
           },
           {
             "img": "54/5-Piero-Manzoni-Gagosian.jpg",
-            "width": 800,
-            "height": 600,
+            "width": 600,
+            "height": 800,
             "caption": "Gagosian and Rizzoli International"
           },
           // additional item objects ...
