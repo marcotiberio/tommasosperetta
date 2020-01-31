@@ -2880,7 +2880,7 @@ $(function() {
         "id": 6,
         "items": [{
             "img": "6/1-Fondazione_March-Photo-Tankboys.jpg",
-            "width": 885,
+            "width": 1051,
             "height": 700,
             "caption": "Fondazione March | Ph © Tankboys"
           }
