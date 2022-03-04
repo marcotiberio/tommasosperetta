@@ -25,6 +25,198 @@ $(function() {
 
     // define data structure inline
     data: [
+      // #67
+      {
+        "id": 67,
+        "items": [{
+            "img": "68/Fin_Serck-Hanssen_Hedda_1.jpeg",
+            "width": 1825,
+            "height": 1200,
+            "caption": "Fin Serck-Hanssen | Ph. © Loose Joints"
+          },
+          {
+            "img": "68/Fin_Serck-Hanssen_Hedda_2.jpeg",
+            "width": 1825,
+            "height": 1200,
+            "caption": "Fin Serck-Hanssen | Ph. © Loose Joints"
+          },
+          {
+            "img": "68/Fin_Serck-Hanssen_Hedda_3.jpeg",
+            "width": 1825,
+            "height": 1200,
+            "caption": "Fin Serck-Hanssen | Ph. © Loose Joints"
+          },
+          {
+            "img": "68/Fin_Serck-Hanssen_Hedda_4.jpeg",
+            "width": 1825,
+            "height": 1200,
+            "caption": "Fin Serck-Hanssen | Ph. © Loose Joints"
+          },
+          {
+            "img": "68/Fin_Serck-Hanssen_Hedda_5.jpeg",
+            "width": 1825,
+            "height": 1200,
+            "caption": "Fin Serck-Hanssen | Ph. © Loose Joints"
+          },
+          {
+            "img": "68/Fin_Serck-Hanssen_Hedda_6.jpeg",
+            "width": 1825,
+            "height": 1200,
+            "caption": "Fin Serck-Hanssen | Ph. © Loose Joints"
+          },
+          {
+            "img": "68/Fin_Serck-Hanssen_Hedda_7.jpeg",
+            "width": 1825,
+            "height": 1200,
+            "caption": "Fin Serck-Hanssen | Ph. © Loose Joints"
+          },
+          {
+            "img": "68/Fin_Serck-Hanssen_Hedda_8.jpeg",
+            "width": 1825,
+            "height": 1200,
+            "caption": "Fin Serck-Hanssen | Ph. © Loose Joints"
+          },
+          // additional item objects ...
+        ]
+      },
+      // #67
+      {
+        "id": 67,
+        "items": [{
+            "img": "67/maurizio-cattelan-1.jpeg",
+            "width": 898,
+            "height": 1200,
+            "caption": "DESTE Foundation for Contemporary Art and Maurizio Cattelan"
+          },
+          {
+            "img": "67/maurizio-cattelan-2.jpeg",
+            "width": 1796,
+            "height": 1200,
+            "caption": "DESTE Foundation for Contemporary Art and Maurizio Cattelan"
+          },
+          {
+            "img": "67/maurizio-cattelan-3.jpeg",
+            "width": 1796,
+            "height": 1200,
+            "caption": "DESTE Foundation for Contemporary Art and Maurizio Cattelan"
+          },
+          {
+            "img": "67/maurizio-cattelan-4.jpeg",
+            "width": 1796,
+            "height": 1200,
+            "caption": "DESTE Foundation for Contemporary Art and Maurizio Cattelan"
+          },
+          {
+            "img": "67/maurizio-cattelan-5.jpeg",
+            "width": 1796,
+            "height": 1200,
+            "caption": "DESTE Foundation for Contemporary Art and Maurizio Cattelan"
+          },
+          {
+            "img": "67/maurizio-cattelan-6.jpeg",
+            "width": 1796,
+            "height": 1200,
+            "caption": "DESTE Foundation for Contemporary Art and Maurizio Cattelan"
+          },
+          {
+            "img": "67/maurizio-cattelan-7.jpeg",
+            "width": 1796,
+            "height": 1200,
+            "caption": "DESTE Foundation for Contemporary Art and Maurizio Cattelan"
+          },
+          // additional item objects ...
+        ]
+      },
+      // #66
+      {
+        "id": 66,
+        "items": [{
+            "img": "66/Emporio-Punch-1.jpeg",
+            "width": 2468,
+            "height": 1851,
+            "caption": "Spazio Punch | Ph. © Augusto Maurandi"
+          },
+          {
+            "img": "66/Emporio-Punch-2.jpeg",
+            "width": 2834,
+            "height": 1884,
+            "caption": "Spazio Punch | Ph. © Augusto Maurandi"
+          },
+          {
+            "img": "66/Emporio-Punch-3.jpeg",
+            "width": 1291,
+            "height": 1942,
+            "caption": "Spazio Punch | Ph. © Augusto Maurandi"
+          },
+          {
+            "img": "66/Emporio-Punch-4.jpeg",
+            "width": 1858,
+            "height": 2477,
+            "caption": "Spazio Punch | Ph. © Augusto Maurandi"
+          },
+          {
+            "img": "66/Emporio-Punch-5.jpeg",
+            "width": 3008,
+            "height": 2000,
+            "caption": "Spazio Punch | Ph. © Augusto Maurandi"
+          },
+          {
+            "img": "66/Emporio-Punch-6.jpeg",
+            "width": 1342,
+            "height": 1789,
+            "caption": "Spazio Punch | Ph. © Augusto Maurandi"
+          },
+          {
+            "img": "66/Emporio-Punch-7.jpeg",
+            "width": 2833,
+            "height": 1884,
+            "caption": "Spazio Punch | Ph. © Augusto Maurandi"
+          },
+          // additional item objects ...
+        ]
+      },
+      // #65
+      {
+        "id": 65,
+        "items": [{
+            "img": "65/SI-0-.jpg",
+            "width": 550,
+            "height": 748,
+            "caption": "Swiss Institute | Ph. © Charlie Rubin"
+          },
+          {
+            "img": "65/SI-1-.jpg",
+            "width": 2560,
+            "height": 1703,
+            "caption": "Swiss Institute | Ph. © Charlie Rubin"
+          },
+          {
+            "img": "65/SI-2-.jpg",
+            "width": 2560,
+            "height": 1703,
+            "caption": "Swiss Institute | Ph. © Charlie Rubin"
+          },
+          {
+            "img": "65/SI-3-.jpg",
+            "width": 2560,
+            "height": 1703,
+            "caption": "Swiss Institute | Ph. © Charlie Rubin"
+          },
+          {
+            "img": "65/SI-4-.jpg",
+            "width": 2560,
+            "height": 1703,
+            "caption": "Swiss Institute | Ph. © Charlie Rubin"
+          },
+          {
+            "img": "65/SI-5-.jpg",
+            "width": 2560,
+            "height": 1703,
+            "caption": "Swiss Institute | Ph. © Charlie Rubin"
+          },
+          // additional item objects ...
+        ]
+      },
       // #64
       {
         "id": 64,
