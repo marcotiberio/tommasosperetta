@@ -25,9 +25,105 @@ $(function() {
 
     // define data structure inline
     data: [
-      // #67
+      // #70
       {
-        "id": 67,
+        "id": 70,
+        "items": [{
+            "img": "70/1-Barbara-Hammer_I-was_I-am.jpg.jpg",
+            "width": 959,
+            "height": 638,
+            "caption": "Barbara Hammer | Ph. © Stavanger Art Musuem"
+          },
+          {
+            "img": "70/2-Sharon-Hayes.jpg",
+            "width": 959,
+            "height": 539,
+            "caption": "Sharon Hayes | Ph. © Stavanger Art Musuem"
+          },
+          {
+            "img": "70/3-Barbara-Hammer_Sisters.jpg",
+            "width": 959,
+            "height": 639,
+            "caption": "Barbara Hammer | Ph. © Stavanger Art Musuem"
+          },
+          {
+            "img": "70/4-David-Wojnarowicz.jpg",
+            "width": 959,
+            "height": 779,
+            "caption": "David Wojnarowicz | Ph. © Stavanger Art Musuem"
+          },
+          {
+            "img": "70/5-Marlon-T-Riggs.jpg",
+            "width": 959,
+            "height": 764,
+            "caption": "Marlon T. Riggs | Ph. © Stavanger Art Musuem"
+          },
+          // additional item objects ...
+        ]
+      },
+      // #69
+      {
+        "id": 69,
+        "items": [{
+            "img": "69/1-Bart-Julius-Peters.jpg",
+            "width": 959,
+            "height": 639,
+            "caption": "Every Moment Counts | Ph. © Øystein Thorvaldsen"
+          },
+          {
+            "img": "69/2-Bjarne-Melgaard.jpg",
+            "width": 959,
+            "height": 636,
+            "caption": "Every Moment Counts | Ph. © Øystein Thorvaldsen"
+          },
+          {
+            "img": "69/3-Soufiane-Ababri.jpg",
+            "width": 959,
+            "height": 639,
+            "caption": "Every Moment Counts | Ph. © Øystein Thorvaldsen"
+          },
+          {
+            "img": "69/4-Sunil-Gupta.jpg",
+            "width": 959,
+            "height": 641,
+            "caption": "Every Moment Counts | Ph. © Øystein Thorvaldsen"
+          },
+          {
+            "img": "69/5-GANG.jpg",
+            "width": 959,
+            "height": 570,
+            "caption": "Every Moment Counts | Ph. © Øystein Thorvaldsen"
+          },
+          {
+            "img": "69/6-Donald-Moffett.jpg",
+            "width": 959,
+            "height": 756,
+            "caption": "Every Moment Counts | Ph. © Øystein Thorvaldsen"
+          },
+          {
+            "img": "69/7-Manuel-Solano.jpg",
+            "width": 959,
+            "height": 639,
+            "caption": "Every Moment Counts | Ph. © Øystein Thorvaldsen"
+          },
+          {
+            "img": "69/8-Piotr-Nathan.jpg",
+            "width": 959,
+            "height": 639,
+            "caption": "Every Moment Counts | Ph. © Øystein Thorvaldsen"
+          },
+          {
+            "img": "69/9-Patrick-Angus.jpg",
+            "width": 959,
+            "height": 640,
+            "caption": "Every Moment Counts | Ph. © Øystein Thorvaldsen"
+          },
+          // additional item objects ...
+        ]
+      },
+      // #68
+      {
+        "id": 68,
         "items": [{
             "img": "68/Fin_Serck-Hanssen_Hedda_1.jpeg",
             "width": 1825,
