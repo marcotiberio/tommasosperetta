@@ -25,6 +25,36 @@ $(function() {
 
     // define data structure inline
     data: [
+      // #71
+      {
+        "id": 71,
+        "items": [{
+            "img": "71/SAF-1.jpg",
+            "width": 1600,
+            "height": 1120,
+            "caption": "Ph. © Sharjah Art Foundation"
+          },
+          {
+            "img": "71/SAF-2.jpg",
+            "width": 1600,
+            "height": 1120,
+            "caption": "Ph. © Sharjah Art Foundation"
+          },
+          {
+            "img": "71/SAF-3.jpg",
+            "width": 1600,
+            "height": 1119,
+            "caption": "Ph. © Sharjah Art Foundation"
+          },
+          {
+            "img": "71/SAF-4.jpg",
+            "width": 1600,
+            "height": 1120,
+            "caption": "Ph. © Sharjah Art Foundation"
+          },
+          // additional item objects ...
+        ]
+      },
       // #70
       {
         "id": 70,
