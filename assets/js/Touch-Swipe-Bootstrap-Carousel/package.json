@@ -50,7 +50,7 @@
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-import": "^2.13.0",
     "istanbul": "^0.4.5",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "mocha-jsdom": "^2.0.0",
     "popper.js": "^1.14.7",
     "sinon": "^6.1.4",
